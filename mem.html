@@ -1,0 +1,208 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<style>
+
+*{
+    margin: 0;
+ 
+       padding: 0; 
+  
+  box-sizing: border-box;
+ 
+    font-family:"poppins",sans-serif;
+
+ }
+
+body{
+
+ display: flex;
+
+ justify-content: center;
+
+ align-items: center;
+ 
+min-height: 100vh;
+
+ background: url("membership.jpg") no-repeat;
+
+ background-size: cover;
+ 
+}
+
+
+.container{
+       
+   width: 420px;
+ 
+    border: 2px solid ;
+        
+     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+      
+       color: black;
+   
+     border-radius: 10px;
+    
+    padding: 30px 40px;
+
+}
+
+.container h1{
+ 
+      font-size: 36px;
+  
+     text-align: center;
+
+}
+
+.container .input-box{
+     
+    position: realtive;
+   
+      width: 100%;
+    
+     height: 50px;
+   
+      margin: 30px 0px;
+
+        color: wheat;
+   }
+  .input-box text{
+    color: white;
+  }
+ .input-box input{
+     
+     width: 100%;
+     
+     height: 100%;
+   
+           background: transparent;
+  
+        border: none;
+   
+       outline: none;
+     
+     border: 2px solid rgb(255,255,255,0.2);
+    
+      border-radius: 5px;
+    
+      font-size: 16px;
+     
+     color: white;
+    
+      padding: 20px 45px 20px 20px;
+
+    }
+ 
+.input-box input::placeholder{
+  
+       color: black;
+    
+    text-align:center;
+     font-color:white;
+   
+
+    }
+
+     .container .remember-forget{
+   
+    display: flex;
+   
+    justify-content: space-between;
+  
+     font-size: 14.5px;
+   
+    margin: -15px 0px 15px;
+
+      }
+
+   
+.container .btn{
+ 
+       width: 100%;
+     
+      height: 45px;
+     
+   background: black;
+
+        border: none;
+     
+   outline: none;
+    
+    border-radius: 5px;
+  
+      cursor: pointer;
+    
+   font-size: 16px;
+   
+    font-weight: 400;
+       color: white;
+ 
+  
+}
+
+  .container .register-link{
+ 
+      font-size: 14.5px;
+   
+     text-align: center;
+  
+      margin: 20px 0px 20px;
+
+}
+
+     .register-link p a{
+   
+   color: black;
+   
+   text-decoration: none;
+
+}
+
+
+    .register-link p a:hover{
+  
+    text-decoration: underline;
+
+}
+
+</style>
+
+
+</head>
+<body><div class="container">
+
+<form action="http://127.0.0.1:5500/mem.html">
+
+<h1>GYM MEMBERSHIP</h1>
+
+
+<div class="input-box">
+<input type="text" placeholder="Name" required="">
+</div>
+
+
+<div class="input-box">
+<input type="text" placeholder="Current weight (in kg)" required="">
+</div>
+
+<div class="input-box">
+<input type="text" placeholder="Height " required="">
+</div>
+
+<div class="input-box">
+<input type="text" placeholder="City " required="">
+</div>
+
+
+<button type="submit" class="btn">Submit</button>
+
+
+</form>
+</div>
+
+
+
+</body>
+</html>

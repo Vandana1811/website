@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gym Memberships</title>
+  <style>
+    body {
+      background-image:url('membership.jpg');
+        background-repeat:no-repeat;
+        background-size:100%;
+      text-align:center;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+
+      padding: 140px;
+     color:black;
+      background-border:black;
+    }
+    .membership {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+       background-border:black;
+    }
+
+    .membership-option {
+      margin: 20px;
+      text-align: center;
+      padding: 20px;
+     background-color:lightgrey;
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+    }
+
+    .membership-option:hover {
+      transform: translateY(-10px);
+    }
+
+   
+
+    .membership-option h2 {
+      margin-top: 0;
+      font-size: 24px;
+      color:black;
+      border:black;
+      
+    }
+
+    .membership-option p {
+      margin-top: 5px;
+      font-size: 18px;
+      color:black;
+    
+    }
+
+    .price-btn {
+     
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-transform: uppercase;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .price-btn:hover {
+      background-color: grey;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gym Memberships</h1>
+    <section class="membership">
+      <div class="membership-option">
+        <h2>1 MONTH</h2>
+        <p>2999</p>
+        <button class="price-btn" ><a href="http://127.0.0.1:5500/mem.html">Join Now</a></button>
+      </div>
+      <div class="membership-option">
+       
+      <h2>3 MONTH</h2>
+        <p>4999</p>
+        <button class="price-btn"><a href="http://127.0.0.1:5500/mem.html">Join Now</a></button>
+      </div>
+      <div class="membership-option">
+     
+      <h2>6 MONTH</h2>
+        <p>6999</p>
+        <button class="price-btn"><a href="http://127.0.0.1:5500/mem.html">Join Now</a></button>
+      </div>
+      <div class="membership-option">
+        <h2>9 MONTH</h2>
+        <p>7999</p>
+        <button class="price-btn"><a href="http://127.0.0.1:5500/mem.html">Join Now</a></button>
+      </div>
+      <div class="membership-option">
+      
+       <h2>1 YEAR</h2>
+        <p>8999</p>
+        <button class="price-btn"><a href="http://127.0.0.1:5500/mem.html">Join Now</a></button>
+      </div>
+    
+     
+      </div>
+    </section>
+  </div>
+</body>
+</html>

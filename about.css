@@ -1,0 +1,98 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Global Styles */
+
+body {
+	font-family: Arial, sans-serif;
+        background-color:lightgrey;
+}
+
+
+
+
+
+/* About Section */
+
+.about {
+	background: lightgrey;
+	
+	padding: 100px 0 20px 0;
+	text-align: center;
+}
+
+.about h1 {
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+}
+
+.about p {
+	font-size: 1rem;
+	color: #323030;
+	max-width: 800px;
+	margin: 0 auto;
+}
+.about {
+    background: white;
+    background: white;
+    padding: 100px 0 20px 0;
+    text-align: center;
+}
+.about-info {
+    margin: 2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+ 
+
+
+button {
+	border: none;
+	outline: 0;
+	padding: 10px;
+	margin: 2rem;
+	font-size: 1rem;
+	color: black;
+	background-color: white;
+	text-align: center;
+	cursor: pointer;
+	width: 15rem;
+	border-radius: 4px;
+}
+
+button:hover {
+	background-color: grey;
+}
+
+
+/* Footer */
+footer {
+	background-color:grey;
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+}
+
+
+
+	.about h1 {
+		font-size: 2rem;
+	}
+
+	.about p {
+		font-size: 0.9rem;
+	}
+
+	.about-info {
+		flex-direction: column;
+		text-align: center;
+	}
+
+	
+
+	

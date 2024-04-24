@@ -1,0 +1,1569 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://goldsgym.in/contact/ -->
+<html lang="en-US" style="--vh: 7.3px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+
+<meta name="viewport" content="height=device-height, width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://goldsgym.in/xmlrpc.php">
+<script type="text/javascript" async="" src="./contact_files/recaptcha__en.js.download" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script type="text/javascript" id="zsiqscript" defer="" src="./contact_files/widget"></script><script type="text/javascript" id="zsiqscript" defer="" src="./contact_files/widget"></script><script src="./contact_files/f.txt"></script><script async="" src="./contact_files/f(1).txt" crossorigin="anonymous" data-checked-head="true"></script>
+		<script type="text/javascript">
+			window.flatStyles = window.flatStyles || ''
+
+			window.lightspeedOptimizeStylesheet = function () {
+				const currentStylesheet = document.querySelector( '.tcb-lightspeed-style:not([data-ls-optimized])' )
+
+				if ( currentStylesheet ) {
+					try {
+						if ( currentStylesheet.sheet && currentStylesheet.sheet.cssRules ) {
+							if ( window.flatStyles ) {
+								if ( this.optimizing ) {
+									setTimeout( window.lightspeedOptimizeStylesheet.bind( this ), 24 )
+								} else {
+									this.optimizing = true;
+
+									let rulesIndex = 0;
+
+									while ( rulesIndex < currentStylesheet.sheet.cssRules.length ) {
+										const rule = currentStylesheet.sheet.cssRules[ rulesIndex ]
+										/* remove rules that already exist in the page */
+										if ( rule.type === CSSRule.STYLE_RULE && window.flatStyles.includes( `${rule.selectorText}{` ) ) {
+											currentStylesheet.sheet.deleteRule( rulesIndex )
+										} else {
+											rulesIndex ++
+										}
+									}
+									/* optimize, mark it such, move to the next file, append the styles we have until now */
+									currentStylesheet.setAttribute( 'data-ls-optimized', '1' )
+
+									window.flatStyles += currentStylesheet.innerHTML
+
+									this.optimizing = false
+								}
+							} else {
+								window.flatStyles = currentStylesheet.innerHTML
+								currentStylesheet.setAttribute( 'data-ls-optimized', '1' )
+							}
+						}
+					} catch ( error ) {
+						console.warn( error )
+					}
+
+					if ( currentStylesheet.parentElement.tagName !== 'HEAD' ) {
+						/* always make sure that those styles end up in the head */
+						const stylesheetID = currentStylesheet.id;
+						/**
+						 * make sure that there is only one copy of the css
+						 * e.g display CSS
+						 */
+						if ( ( ! stylesheetID || ( stylesheetID && ! document.querySelector( `head #${stylesheetID}` ) ) ) ) {
+							document.head.prepend( currentStylesheet )
+						} else {
+							currentStylesheet.remove();
+						}
+					}
+				}
+			}
+
+			window.lightspeedOptimizeFlat = function ( styleSheetElement ) {
+				if ( document.querySelectorAll( 'link[href*="thrive_flat.css"]' ).length > 1 ) {
+					/* disable this flat if we already have one */
+					styleSheetElement.setAttribute( 'disabled', true )
+				} else {
+					/* if this is the first one, make sure he's in head */
+					if ( styleSheetElement.parentElement.tagName !== 'HEAD' ) {
+						document.head.append( styleSheetElement )
+					}
+				}
+			}
+		</script>
+		<style type="text/css" id="tcb-style-base-page-295" onload="typeof window.lightspeedOptimizeStylesheet === &#39;function&#39; &amp;&amp; window.lightspeedOptimizeStylesheet()" class="tcb-lightspeed-style" data-ls-optimized="1">.tve_s_fb_share{--tcb-social-color-style-6: #3569b4;}.tve_s_in_share{--tcb-social-color-style-6: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-7: #3569b4;}.tve_s_in_share{--tcb-social-color-style-7: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-8: #3569b4;}.tve_s_in_share{--tcb-social-color-style-8: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-9: #3569b4;}.tve_s_in_share{--tcb-social-color-style-9: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-10: #3569b4;}.tve_s_in_share{--tcb-social-color-style-10: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-11: #3569b4;}.tve_s_in_share{--tcb-social-color-style-11: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-12: #3569b4;}.tve_s_in_share{--tcb-social-color-style-12: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-13: #3569b4;}.tve_s_in_share{--tcb-social-color-style-13: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-14: #111;}.tve_s_in_share{--tcb-social-color-style-14: #111;}.tve_s_fb_share{--tcb-social-color-style-15: #3569b4;}.tve_s_in_share{--tcb-social-color-style-15: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-16: #3569b4;}.tve_s_in_share{--tcb-social-color-style-16: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-17: #181818;}.tve_s_in_share{--tcb-social-color-style-17: #181818;}.tve_s_fb_share{--tcb-social-color-style-18: #3569b4;}.tve_s_in_share{--tcb-social-color-style-18: #0177b5;}.tve_s_fb_share{--tcb-social-color-style-1: #3569b4;}.tve_s_in_share{--tcb-social-color-style-1: #0177b5;}.tve_s_yt_share{--tcb-social-color-style-1: #ec162c;}.tve_s_fb_share{--tcb-social-color-style-2: #284f9b;}.tve_s_in_share{--tcb-social-color-style-2: #015a9c;}.tve_s_yt_share{--tcb-social-color-style-2: #d74546;}.tve_s_fb_share{--tcb-social-color-style-3: #3569b4;}.tve_s_in_share{--tcb-social-color-style-3: #0177b5;}.tve_s_yt_share{--tcb-social-color-style-3: #ec162c;}.tve_s_fb_share{--tcb-social-color-style-4: #3569b4;}.tve_s_in_share{--tcb-social-color-style-4: #0177b5;}.tve_s_yt_share{--tcb-social-color-style-4: #ec162c;}.tve_s_fb_share{--tcb-social-color-style-5: #3569b4;}.tve_s_in_share{--tcb-social-color-style-5: #0177b5;}.tve_s_ig_share{--tcb-social-color-style-5: #111111;}.tve_s_yt_share{--tcb-social-color-style-5: #ec162c;}.tve_s_item{--tcb-local-color-style-1: linear-gradient(to bottom right,var(--tcb-local-color-f2bba) 50%,var(--tcb-local-color-trewq) 50%);--tcb-local-color-style-2: var(--tcb-local-color-f3080);--tcb-local-color-style-3: var(--tcb-local-color-f3080);--tcb-local-color-style-4: var(--tcb-local-color-f3080);--tcb-local-color-style-5: var(--tcb-local-color-f3080);--tcb-local-color-style-6: var(--tcb-local-color-f2bba);--tcb-local-color-style-7: var(--tcb-local-color-f2bba);--tcb-local-color-style-8: var(--tcb-local-color-f2bba);}:not(#tve).thrv_social_follow.tcb-custom-branding-social .tve_links_style_4 .tve_s_item,.thrive_author_links.tcb-custom-branding-social .tve_links_style_4 .tve_s_item{border-radius: 3px;border: 1px solid var(--tcb-local-color-f3080);background-color: transparent;fill: var(--tcb-local-color-f3080);color: var(--tcb-local-color-f3080);}:not(#tve).thrv_social_follow.tcb-custom-branding-social .tve_links_style_4 .tve_s_item:hover,.thrive_author_links.tcb-custom-branding-social .tve_links_style_4 .tve_s_item:hover{border-color: var(--tcb-local-color-poiuy);fill: var(--tcb-local-color-poiuy);color: var(--tcb-local-color-poiuy);}:not(#tve).thrv_social_follow.tcb-custom-branding-social .tve_links_style_4 .tve_s_item:hover,.thrive_author_links.tcb-custom-branding-social .tve_links_style_4 .tve_s_item:hover{border-color: var(--tcb-local-color-f3080);background-color: var(--tcb-local-color-f3080);fill: rgb(255,255,255) !important;color: rgb(255,255,255) !important;}.tve_s_fb_share{--tcb-local-color-style-1: linear-gradient(to bottom right,rgba(53,105,180,0.8) 50%,#3569b4 50%);--tcb-local-color-style-2: #3569b4;--tcb-local-color-style-3: #3569b4;--tcb-local-color-style-4: #3569b4;--tcb-local-color-style-5: #3569b4;--tcb-local-color-style-6: #3569b4;--tcb-local-color-style-7: #3569b4;--tcb-local-color-style-8: #3569b4;}.tve_s_in_share{--tcb-local-color-style-1: linear-gradient(to bottom right,rgba(1,119,181,0.8) 50%,#0177b5 50%);--tcb-local-color-style-2: #0177b5;--tcb-local-color-style-3: #0177b5;--tcb-local-color-style-4: #0177b5;--tcb-local-color-style-5: #0177b5;--tcb-local-color-style-6: #0177b5;--tcb-local-color-style-7: #0177b5;--tcb-local-color-style-8: #0177b5;}.tve_s_yt_share{--tcb-local-color-style-1: linear-gradient(to bottom right,rgba(236,22,44,0.8) 50%,#ec162c 50%);--tcb-local-color-style-2: #ec162c;--tcb-local-color-style-3: #ec162c;--tcb-local-color-style-4: #ec162c;--tcb-local-color-style-5: #ec162c;--tcb-local-color-style-6: #ec162c;--tcb-local-color-style-7: #ec162c;--tcb-local-color-style-8: #ec162c;}.tve_s_ig_share{--tcb-local-color-style-1: linear-gradient(to bottom right,rgba(23,23,22,0.8) 50%,#171716 50%);--tcb-local-color-style-2: #171716;--tcb-local-color-style-3: #171716;--tcb-local-color-style-4: #171716;--tcb-local-color-style-5: #171716;--tcb-local-color-style-6: #171716;--tcb-local-color-style-7: #171716;--tcb-local-color-style-8: #171716;}.thrv_social_follow,.thrive_author_links{--tcb-local-color-f3080: rgb(23,23,22);--tcb-local-color-f2bba: rgba(23,23,22,0.5);--tcb-local-color-trewq: rgba(23,23,22,0.7);--tcb-local-color-poiuy: rgba(23,23,22,0.35);--tcb-local-color-f83d7: rgba(23,23,22,0.4);--tcb-local-color-frty6: rgba(23,23,22,0.2);--tcb-local-color-flktr: rgba(23,23,22,0.8);--tve-color: var(--tcb-local-color-f3080);}.thrv_social_follow .tve_social_custom.tve_links_style_4 .tve_s_item,.thrive_author_links .tve_social_custom.tve_links_style_4 .tve_s_item{border-radius: 3px;border: 1px solid var(--tcb-local-color-f3080);background: transparent;fill: var(--tcb-local-color-f3080);color: var(--tcb-local-color-f3080);}.thrv_social_follow .tve_social_custom.tve_links_style_4 .tve_s_item:hover,.thrive_author_links .tve_social_custom.tve_links_style_4 .tve_s_item:hover{border-color: var(--tcb-local-color-poiuy);fill: var(--tcb-local-color-poiuy);color: var(--tcb-local-color-poiuy);}.thrv_social_follow .tve_social_custom.tve_links_style_4 .tve_s_item:hover,.thrive_author_links .tve_social_custom.tve_links_style_4 .tve_s_item:hover{border-color: var(--tcb-local-color-f3080);background-color: var(--tcb-local-color-f3080);fill: rgb(255,255,255);color: rgb(255,255,255);}.thrv_social_custom:not(.tcb-social-full-width):not(.tve_style_12) .tve_s_item:last-child{margin-right: 0px;}.tve_social_custom{display: table;}.tve_social_custom .tve_s_item{display: inline-block;vertical-align: middle;text-decoration: none;margin-top: 5px;margin-right: 10px;line-height: 1.5em;}.tve_social_custom .tve_s_item.thrv_wrapper{margin-top: 5px;margin-bottom: 5px;}.tve_social_custom .tve_s_item:not(:last-child){margin-right: 10px;}.rtl .tve_social_custom .tve_s_item:not(:first-child){margin-right: 10px !important;}.rtl .tve_social_custom .tve_s_item:first-child{margin-right: 0px !important;}.tve_social_custom .tve_s_icon{display: flex;justify-content: center;align-items: center;text-align: center;vertical-align: middle;}.tve_social_custom .tve_s_icon svg.tcb-icon{fill: currentcolor;color: currentcolor;}.thrv_social_custom .tve_social_items{display: inline-block;vertical-align: middle;}.thrv_social_custom{align-items: center;justify-content: center;max-width: max-content;display: flex !important;}.thrv_social_follow .tve_social_items,.thrive_author_links .tve_social_items{line-height: 1em;}.thrv_social_follow .tve_s_icon::before,.thrive_author_links .tve_s_icon::before{content: none !important;}.thrv_social_follow .tve_s_item.thrv_wrapper,.thrive_author_links .tve_s_item.thrv_wrapper{margin-top: 4px;margin-bottom: 4px;}.thrv_social_follow .tve_social_custom .tve_s_icon,.thrive_author_links .tve_social_custom .tve_s_icon{padding: 0.6em;height: 1.5em;width: 1.5em;display: flex;box-sizing: content-box;border: unset !important;}.thrv_social_follow .tve_social_custom svg.tcb-icon,.thrive_author_links .tve_social_custom svg.tcb-icon{fill: currentcolor;color: currentcolor;height: 1.5em;width: 1.5em;vertical-align: bottom;}.thrv_social_follow .tve_social_custom .tve_sc_icon,.thrive_author_links .tve_social_custom .tve_sc_icon{fill: currentcolor;color: currentcolor;font-size: 1.5em;vertical-align: bottom;}.thrv_social_follow .tve_social_custom .tve_s_item,.thrive_author_links .tve_social_custom .tve_s_item{margin-right: 0.3em;position: relative;z-index: 1;overflow: hidden;vertical-align: bottom;}.thrv_social_follow .tve_social_custom .tve_s_item:last-of-type,.thrive_author_links .tve_social_custom .tve_s_item:last-of-type{margin-right: 0px;}.thrv_social_follow .tve_social_custom .tve_s_item a,.thrive_author_links .tve_social_custom .tve_s_item a{display: flex;padding: 0px;color: unset !important;fill: none !important;}.tve_social_items a{font-size: unset;}.thrv-page-section{position: relative;box-sizing: border-box !important;}.thrv-page-section .tve-page-section-out{position: absolute;width: 100%;height: 100%;left: 0px;top: 0px;box-sizing: border-box;transition: box-shadow 0.5s ease 0s;overflow: hidden;}.thrv-page-section.tve-height-update .tve-page-section-in{min-height: 150px;}.thrv-page-section .tve-page-section-in{box-sizing: border-box;margin-right: auto;margin-left: auto;position: relative;z-index: 1;min-height: 40px;}.thrv-page-section.tcb-window-width .tve-page-section-in{padding-left: 0px;padding-right: 0px;}.tve-page-section-in > .thrv_wrapper:first-child{margin-top: 0px;}.tve-page-section-in > .thrv_wrapper:last-child{margin-bottom: 0px;}.tcb-icon{display: inline-block;width: 1em;height: 1em;line-height: 1em;vertical-align: middle;stroke-width: 0;stroke: currentcolor;fill: currentcolor;box-sizing: content-box;transform: rotate(var(--tcb-icon-rotation-angle,0deg));}svg.tcb-icon path:not([fill="none"]){transition: none 0s ease 0s;fill: inherit !important;stroke: inherit !important;}.thrv_icon{text-align: center;}.thrv-button{max-width: 100%;margin-left: auto;margin-right: auto;display: table !important;}.thrv-button.thrv_wrapper{padding: 0px;}.thrv-button .tcb-plain-text{cursor: pointer;}a.tcb-button-link{background-color: rgb(26,188,156);padding: 12px 15px;font-size: 18px;box-sizing: border-box;display: inline-flex;align-items: center;overflow: hidden;width: 100%;text-align: center;line-height: 1.2em;}a.tcb-button-link:hover{background-color: rgb(21,162,136);}.thrv-button a.tcb-button-link{color: rgb(255,255,255);text-decoration: none !important;}a.tcb-button-link > span::before{position: absolute;content: "";display: none;top: -100px;bottom: -100px;width: 1px;left: 10px;background-color: rgb(0,121,0);}span.tcb-button-texts{color: inherit;display: block;flex: 1 1 0%;position: relative;}span.tcb-button-texts > span{display: block;padding: 0px;}.thrv_text_element a:not(.tcb-button-link){font-size: inherit;}.tcb-style-wrap strong{font-weight: var(--g-bold-weight,bold);}.tcb-plain-text{cursor: text;}.thrv_text_element{overflow-wrap: break-word;}:not(#_s) .tcb-window-width{width: 100vw;margin-left: calc(50% - 50vw) !important;}.notifications-content-wrapper.tcb-permanently-hidden{display: none !important;}.tcb-permanently-hidden{display: none !important;}.tar-disabled{cursor: default;opacity: 0.4;pointer-events: none;}.tcb-elem-placeholder{display: none;}.tcb-clear::after{display: block;height: 0px;content: "";}.tve_ea_thrive_animation{opacity: 0;}.tve_ea_thrive_animation.tve_anim_start{opacity: 1;transition: all 0.5s ease-out 0s;}.tve_ea_thrive_animation.tve_anim_shutter_out_vertical{opacity: 1;visibility: visible !important;}.tve_ea_thrive_animation.tve_anim_shutter_out_vertical > .tcb-button-link{position: relative;}.tve_ea_thrive_animation.tve_anim_shutter_out_vertical > .tcb-button-link > span{position: relative;z-index: 1;}.tve_ea_thrive_animation.tve_anim_shutter_out_vertical > .tcb-button-link::before{content: "";position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;}.tve_ea_thrive_animation.tve_anim_shutter_out_vertical > .tcb-button-link::after{visibility: visible;content: "";position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;border-radius: 0px;transform: scaleY(0);transform-origin: 50% center;transition-property: transform;transition-duration: 0.3s;transition-timing-function: ease-out;}.tve_ea_thrive_animation.tve_anim_shutter_out_vertical.tve_anim_start > .tcb-button-link::after,.tve_ea_thrive_animation.tve_anim_shutter_out_vertical:hover > .tcb-button-link::after{transform: scaleY(1) !important;}.tcb-flex-row{display: flex;flex-flow: row;align-items: stretch;justify-content: space-between;margin-top: 0px;margin-left: -15px;padding-bottom: 15px;padding-top: 15px;}.tcb-flex-col{flex: 1 1 auto;padding-top: 0px;padding-left: 15px;}.tcb-flex-row .tcb-flex-col{box-sizing: border-box;}.tcb--cols--2:not(.tcb-resized) > .tcb-flex-col{max-width: 50%;}.tcb-col{height: 100%;display: flex;flex-direction: column;position: relative;}.tcb-flex-row .tcb-col{box-sizing: border-box;}.tve_s_icon svg{width: 1em;height: 1em;stroke-width: 0;fill: currentcolor;stroke: currentcolor;}html{text-rendering: auto !important;}html body{text-rendering: auto !important;}.thrv_wrapper{margin-top: 20px;margin-bottom: 20px;padding: 1px;}.thrv_wrapper div{box-sizing: content-box;}.thrv_wrapper.thrv_text_element,.thrv_wrapper.thrv-page-section{margin: 0px;}.thrv_wrapper.thrv-columns{margin-top: 10px;margin-bottom: 10px;padding: 0px;}.thrv_wrapper.tcb-window-width{position: relative;max-width: none !important;}p{font-size: 1em;}.tve-flexible-container{margin-bottom: 20px;position: relative;overflow: hidden;}.tve-flexible-container iframe{height: 100%;min-height: inherit;min-width: inherit;width: 100% !important;}a:not(.tcb-button-link) svg.tcb-icon{color: rgb(17,17,17);}.thrv_icon{line-height: 0;}.thrv_icon.thrv_wrapper{margin-left: auto;margin-right: auto;padding: 0px;}.thrv_wrapper [class*=" icon-"]{border-radius: 0px;background: transparent;}:not(#_s):not(#_s) .tcb-conditional-display-placeholder{position: relative;min-height: var(--tcb-container-height-d,100px) !important;}:not(#_s):not(#_s) .tcb-conditional-display-placeholder.thrv-page-section{box-sizing: border-box;margin: 0px;}:not(#_s):not(#_s) .tcb-conditional-display-placeholder.thrv-content-box{box-sizing: border-box;}:not(#_s):not(#_s) .tcb-conditional-display-placeholder .tve-page-section-out,:not(#_s):not(#_s) .tcb-conditional-display-placeholder .tve-content-box-background{box-sizing: border-box;position: absolute;width: 100%;height: 100%;left: 0px;top: 0px;overflow: hidden;}.thrv-google-map-embedded-code{max-width: 100%;}@media (max-width: 1023px){:not(#_s):not(#_s) .tcb-conditional-display-placeholder{min-height: var(--tcb-container-height-t) !important;}}@media (max-width: 767px){html{overflow-x: hidden !important;}html,body{max-width: 100vw !important;}.tcb-flex-row{flex-direction: column;}.tcb-flex-row.v-2{flex-direction: row;}.tcb-flex-row.v-2:not(.tcb-mobile-no-wrap){flex-wrap: wrap;}.tcb-flex-row.v-2:not(.tcb-mobile-no-wrap) > .tcb-flex-col{width: 100%;flex: 1 0 390px;max-width: 100% !important;}:not(#_s):not(#_s) .tcb-conditional-display-placeholder{min-height: var(--tcb-container-height-m) !important;}}@media screen and (-ms-high-contrast: active),(-ms-high-contrast: none){.tcb-flex-col{width: 100%;}.tcb-col{display: block;}}@media screen and (max-device-width: 480px){body{text-size-adjust: none;}}</style><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<script>window._wca = window._wca || [];</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>contact - Golds Gym</title>
+	<link rel="canonical" href="https://goldsgym.in/contact/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="contact - Golds Gym">
+	<meta property="og:description" content="CONTACT GOLD&#39;S GYMWE&#39;D LOVE TO HEAR FROM YOU Free Trail GET IN TOUCHWE ARE ALWAYS READY TO HEAR FROM YOUOUR TEAM IS ALWAYS READY TO HEAR FROM YOU. WE MAKE IT A POINT TO RESPOND WITHIN 24 HOURS ON WEEKDAYS AND 48 HOURS ON WEEKENDS Address:- Dhantak Plaza, 203, 2nd Floor, Makwana Rd, Gamdevi, Marol, Andheri East, […]">
+	<meta property="og:url" content="https://goldsgym.in/contact/">
+	<meta property="og:site_name" content="Golds Gym">
+	<meta property="article:publisher" content="https://www.facebook.com/GoldsGymIndia/">
+	<meta property="article:modified_time" content="2024-03-15T13:27:49+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@GoldsGymIndia">
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="1 minute">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://goldsgym.in/contact/","url":"https://goldsgym.in/contact/","name":"contact - Golds Gym","isPartOf":{"@id":"https://goldsgym.in/#website"},"datePublished":"2023-10-17T08:19:13+00:00","dateModified":"2024-03-15T13:27:49+00:00","breadcrumb":{"@id":"https://goldsgym.in/contact/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://goldsgym.in/contact/"]}]},{"@type":"BreadcrumbList","@id":"https://goldsgym.in/contact/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://goldsgym.in/"},{"@type":"ListItem","position":2,"name":"contact"}]},{"@type":"WebSite","@id":"https://goldsgym.in/#website","url":"https://goldsgym.in/","name":"Golds Gym India","description":"","publisher":{"@id":"https://goldsgym.in/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://goldsgym.in/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://goldsgym.in/#organization","name":"F2 Fun & Fitness Pvt. Ltd","url":"https://goldsgym.in/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://goldsgym.in/#/schema/logo/image/","url":"https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/10/fullcolor.png?fit=563%2C564&ssl=1","contentUrl":"https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/10/fullcolor.png?fit=563%2C564&ssl=1","width":563,"height":564,"caption":"F2 Fun & Fitness Pvt. Ltd"},"image":{"@id":"https://goldsgym.in/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/GoldsGymIndia/","https://twitter.com/GoldsGymIndia"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="https://stats.wp.com/">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/">
+<link rel="dns-prefetch" href="https://i0.wp.com/">
+<link rel="alternate" type="application/rss+xml" title="Golds Gym » Feed" href="https://goldsgym.in/feed/">
+<link rel="alternate" type="application/rss+xml" title="Golds Gym » Comments Feed" href="https://goldsgym.in/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/goldsgym.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="./contact_files/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="./contact_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./contact_files/wp-mediaelement.min.css" type="text/css" media="all">
+<style id="jetpack-sharing-buttons-style-inline-css" type="text/css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style><meta http-equiv="origin-trial" content="As0hBNJ8h++fNYlkq8cTye2qDLyom8NddByiVytXGGD0YVE+2CEuTCpqXMDxdhOMILKoaiaYifwEvCRlJ/9GcQ8AAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="AgRYsXo24ypxC89CJanC+JgEmraCCBebKl8ZmG7Tj5oJNx0cmH0NtNRZs3NB5ubhpbX/bIt7l2zJOSyO64NGmwMAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A/ERL66fN363FkXxgDc6F1+ucRUkAhjEca9W3la6xaLnD2Y1lABsqmdaJmPNaUKPKVBRpyMKEhXYl7rSvrQw+AkAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A6OdGH3fVf4eKRDbXb4thXA4InNqDJDRhZ8U533U/roYjp4Yau0T3YSuc63vmAs/8ga1cD0E3A7LEq6AXk1uXgsAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
+<link rel="stylesheet" id="contact-form-7-css" href="./contact_files/styles.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="woo-notification-icons-close-css" href="./contact_files/icons-close.css" type="text/css" media="all">
+<link rel="stylesheet" id="woo-notification-css" href="./contact_files/woo-notification.min.css" type="text/css" media="all">
+<style id="woo-notification-inline-css" type="text/css">
+#message-purchased #notify-close:before{color:#000000;}#message-purchased .message-purchase-main::before{
+				background-image: url('https://goldsgym.in/wp-content/plugins/woo-notification/images/background/bg_yellow.png');  
+				 border-radius:0;
+			}#message-purchased .wn-notification-image-wrapper{padding:0;}#message-purchased .wn-notification-message-container{padding-left:20px;}
+                #message-purchased .message-purchase-main{
+                        background-color: #ffffff;                       
+                        color:#000000 !important;
+                        border-radius:0 ;
+                }
+                 #message-purchased a, #message-purchased p span{
+                        color:#000000 !important;
+                }
+</style>
+<link rel="stylesheet" id="woo-notification-templates-css" href="./contact_files/woo-notification-templates.css" type="text/css" media="all">
+<link rel="stylesheet" id="shoptimizer-style-css" href="./contact_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="shoptimizer-child-style-css" href="./contact_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-style-css" href="./contact_files/bootstrap-css.css" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css-css" href="./contact_files/slick.css" type="text/css" media="all">
+<link rel="stylesheet" id="slick-theme-css-css" href="./contact_files/slick-theme.css" type="text/css" media="all">
+<link rel="stylesheet" id="slick-custom-css-css" href="./contact_files/custom-css.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="./contact_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="./contact_files/jquery.fancybox.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="shoptimizer-main-min-css" href="./contact_files/main.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="shoptimizer-modal-min-css" href="./contact_files/modal.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="shoptimizer-blocks-min-css" href="./contact_files/blocks.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="thrive_icon_pack-css" href="./contact_files/style(2).css" type="text/css" media="all">
+<link rel="stylesheet" id="shoptimizer-woocommerce-min-css" href="./contact_files/woocommerce.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="./contact_files/select2.css" type="text/css" media="all">
+<script type="text/javascript" src="./contact_files/wp-polyfill-inert.min.js.download" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="./contact_files/regenerator-runtime.min.js.download" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="./contact_files/wp-polyfill.min.js.download" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="./contact_files/hooks.min.js.download" id="wp-hooks-js"></script>
+<script type="text/javascript" src="./contact_files/w.js.download" id="woo-tracks-js"></script>
+<script type="text/javascript" id="breeze-prefetch-js-extra">
+/* <![CDATA[ */
+var breeze_prefetch = {"local_url":"https:\/\/goldsgym.in","ignore_remote_prefetch":"1","ignore_list":["\/wp-admin\/"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/breeze-prefetch-links.min.js.download" id="breeze-prefetch-js"></script>
+<script type="text/javascript" src="./contact_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./contact_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="./contact_files/imagesloaded.min.js.download" id="imagesloaded-js"></script>
+<script type="text/javascript" src="./contact_files/masonry.min.js.download" id="masonry-js"></script>
+<script type="text/javascript" src="./contact_files/jquery.masonry.min.js.download" id="jquery-masonry-js"></script>
+<script type="text/javascript" id="tve_frontend-js-extra">
+/* <![CDATA[ */
+var tve_frontend_options = {"ajaxurl":"https:\/\/goldsgym.in\/wp-admin\/admin-ajax.php","is_editor_page":"","page_events":[],"is_single":"1","social_fb_app_id":"","dash_url":"https:\/\/goldsgym.in\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard","queried_object":{"ID":295,"post_author":"1"},"query_vars":{"page":"","pagename":"contact"},"$_POST":[],"translations":{"Copy":"Copy","empty_username":"ERROR: The username field is empty.","empty_password":"ERROR: The password field is empty.","empty_login":"ERROR: Enter a username or email address.","min_chars":"At least %s characters are needed","no_headings":"No headings found","registration_err":{"required_field":"<strong>Error<\/strong>: This field is required","required_email":"<strong>Error<\/strong>: Please type your email address.","invalid_email":"<strong>Error<\/strong>: The email address isn&#8217;t correct.","passwordmismatch":"<strong>Error<\/strong>: Password mismatch"}},"routes":{"posts":"https:\/\/goldsgym.in\/wp-json\/tcb\/v1\/posts","video_reporting":"https:\/\/goldsgym.in\/wp-json\/tcb\/v1\/video-reporting"},"nonce":"9834f6f3dc","allow_video_src":"","google_client_id":null,"google_api_key":null,"facebook_app_id":null,"lead_generation_custom_tag_apis":["activecampaign","aweber","convertkit","drip","klicktipp","mailchimp","sendlane","zapier"],"post_request_data":[],"user_profile_nonce":"c2125289dd","ip":"106.216.249.216","current_user":[],"post_id":"295","post_title":"contact","post_type":"page","post_url":"https:\/\/goldsgym.in\/contact\/","is_lp":"","woo_rest_routes":{"shop":"https:\/\/goldsgym.in\/wp-json\/tcb\/v1\/woo\/render_shop","product_categories":"https:\/\/goldsgym.in\/wp-json\/tcb\/v1\/woo\/render_product_categories","product_variations":"https:\/\/goldsgym.in\/wp-json\/tcb\/v1\/woo\/variations"},"conditional_display":{"is_tooltip_dismissed":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/general.min.js.download" id="tve_frontend-js"></script>
+<script type="text/javascript" src="./contact_files/jquery.blockUI.min.js.download" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="./contact_files/js.cookie.min.js.download" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/woocommerce.min.js.download" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woo-notification-js-extra">
+/* <![CDATA[ */
+var _woocommerce_notification_params = {"str_about":"About","str_ago":"ago","str_day":"day","str_days":"days","str_hour":"hour","str_hours":"hours","str_min":"minute","str_mins":"minutes","str_secs":"secs","str_few_sec":"a few seconds","time_close":"24","show_close":"1","display_effect":"fade-in","hidden_effect":"fade-out","redirect_target":"0","image":"1","messages":["Someone in {city} purchased a {product_with_link} {time_ago}","{product_with_link} {custom}"],"message_custom":"{number} people seeing this product right now","message_number_min":"100","message_number_max":"200","detect":"1","time":"10","names":["UHJpbmNlIFBhbmRleQ0=","YmhhdnlhIGdhcmcN","Um9oaXQgR3VwdGEN","S2FydGlrIEd1bWJlcg0=","Q2hhaXRhbnlhIFNhbGdhcg0=","U2FjaGluIENob3VkaGFyeQ=="],"cities":["VXR0YW0gTmFnYXIgMTEwMDU5IERlbGhpDQ==","Tm9pZGEgMjAxMzA5IFV0dGFyIFByYWRlc2gN","R2hhemlhYmFkIDIwMTAxNyBVdHRhciBQcmFkZXNoDQ==","UXV0dWIgZW5jbGF2ZSBOZXcgRGVsaGkgMTEwMDE3DQ==","S2V0aGFuIHBnIEJhbmdhbG9yZSA1NjAxMDMgS2FybmF0YWthDQ==","U3VyeWFwZXQgNTA4MjEzIFRlbGFuZ2FuYQ=="],"country":"","billing":"0","products":[{"title":"Gold&#8217;s Gym Gurgaon 67","url":"https:\/\/goldsgym.in\/our-gyms\/golds-gym-gurgaon-67\/","thumb":""},{"title":"GGFI SHORT COURSE \u2013 Sports Injuries","url":"https:\/\/goldsgym.in\/our-gyms\/ggfi-short-course-sports-injuries\/","thumb":""}]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/woo-notification.min.js.download" id="woo-notification-js"></script>
+<script type="text/javascript" src="./contact_files/s-202413.js.download" id="woocommerce-analytics-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="./contact_files/jquery.fancybox.min.js.download" id="fancybox-js"></script>
+<script type="text/javascript" id="custom-js-extra">
+/* <![CDATA[ */
+var custom_ajax_object = {"ajaxurl":"https:\/\/goldsgym.in\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/custom.js.download" id="custom-js"></script>
+<script type="text/javascript" src="./contact_files/selectWoo.full.min.js.download" id="selectWoo-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://goldsgym.in/wp-json/"><link rel="alternate" type="application/json" href="https://goldsgym.in/wp-json/wp/v2/pages/295"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://goldsgym.in/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<meta name="generator" content="WooCommerce 8.7.0">
+<link rel="shortlink" href="https://goldsgym.in/?p=295">
+<link rel="alternate" type="application/json+oembed" href="https://goldsgym.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoldsgym.in%2Fcontact%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://goldsgym.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgoldsgym.in%2Fcontact%2F&amp;format=xml">
+	<script type="text/javascript"> var commercekit_ajs = {"ajax_url":"\/?commercekit-ajax"}; var commercekit_pdp = []; var commercekit_as = []; </script>
+	<style type="text/css" id="tve_global_variables">:root{--tcb-color-0:rgb(255, 228, 0);--tcb-color-0-h:53;--tcb-color-0-s:100%;--tcb-color-0-l:50%;--tcb-color-0-a:1;--tcb-color-1:rgb(255, 255, 255);--tcb-color-1-h:0;--tcb-color-1-s:0%;--tcb-color-1-l:100%;--tcb-color-1-a:1;--tcb-color-2:rgb(0, 0, 0);--tcb-color-2-h:0;--tcb-color-2-s:0%;--tcb-color-2-l:0%;--tcb-color-2-a:1;--tcb-color-3:rgb(51, 51, 51);--tcb-color-3-h:0;--tcb-color-3-s:0%;--tcb-color-3-l:20%;--tcb-color-3-a:1;--tcb-background-author-image:url(https://secure.gravatar.com/avatar/66c4a1cdeeab6628b51cda82a33a3f53?s=256&d=mm&r=g);--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url(https://goldsgym.in/wp-content/plugins/thrive-visual-editor/editor/css/images/featured_image.png);}</style>	<style>img#wpstats{display:none}</style>
+			<script type="text/javascript" id="zsiqchat">
+		var $zoho = $zoho || {};
+		$zoho.salesiq = $zoho.salesiq || {
+			widgetcode: "siq0d74f0de15a939ee59aae9849508f326969423d9b9bae6ce4c6ac1389da4ee23",
+			values: {},
+			ready: function() {}
+		};
+		var d = document;
+		s = d.createElement("script");
+		s.type = "text/javascript";
+		s.id = "zsiqscript";
+		s.defer = true;
+		s.src = "https://salesiq.zohopublic.in/widget";
+		t = d.getElementsByTagName("script")[0];
+		t.parentNode.insertBefore(s, t);
+	</script>
+	
+        <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "siq0d74f0de15a939ee59aae9849508f326969423d9b9bae6ce4c6ac1389da4ee23", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zohopublic.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
+    	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" id="thrive-default-styles"></style><link rel="icon" href="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/logo-pink-1.png?fit=32%2C32&amp;ssl=1" sizes="32x32">
+<link rel="icon" href="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/logo-pink-1.png?fit=75%2C76&amp;ssl=1" sizes="192x192">
+<link rel="apple-touch-icon" href="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/logo-pink-1.png?fit=75%2C76&amp;ssl=1">
+<meta name="msapplication-TileImage" content="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/logo-pink-1.png?fit=75%2C76&amp;ssl=1">
+			<style class="tve_custom_style">@import url("//fonts.googleapis.com/css?family=Montserrat:400,500&subset=latin");@media (min-width: 300px){[data-css="tve-u-18b3cc2d1d5"]{min-width: auto;max-width: 1135.45px;min-height: 300px !important;}[data-css="tve-u-18b3cc32344"]{background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://goldsgym.in/wp-content/uploads/2023/12/Contact-us.jpg") !important;background-size: auto,cover !important;background-position: 50% 50%,50% 50% !important;background-attachment: scroll,scroll !important;background-repeat: no-repeat,no-repeat !important;--background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://goldsgym.in/wp-content/uploads/2023/12/Contact-us.jpg") !important;--background-size: auto,cover !important;--background-position: 50% 50%,50% 50% !important;--background-attachment: scroll,scroll !important;--background-repeat: no-repeat,no-repeat !important;--tve-applied-background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://goldsgym.in/wp-content/uploads/2023/12/Contact-us.jpg") !important;}[data-css="tve-u-18b3cc39833"] .tve-page-section-in{justify-content: center;display: flex;flex-direction: column;}:not(#tve) [data-css="tve-u-18b3cc3e99c"]{--g-regular-weight: 400;--g-bold-weight: 500;font-family: Montserrat !important;font-size: 36px !important;padding-bottom: 0px !important;margin-bottom: 0px !important;color: rgb(255,228,0) !important;--tcb-applied-color: var$(--tcb-color-0) !important;--tve-applied-color: var$(--tcb-color-0) !important;}:not(#tve) [data-css="tve-u-18b3cc3e99c"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3cc44c6c"]{--tcb-applied-color: var$(--tcb-color-0) !important;}[data-css="tve-u-18b3cc47eb3"]{--tcb-applied-color: var$(--tcb-color-0) !important;}[data-css="tve-u-18b3cc4d7df"]{--tcb-applied-color: var$(--tcb-color-0) !important;}[data-css="tve-u-18b3cc539c8"]{min-width: auto;}:not(#tve) [data-css="tve-u-18b3cc5b464"]{--g-regular-weight: 400;--g-bold-weight: 500;font-family: Montserrat !important;font-size: 18px !important;padding-bottom: 0px !important;margin-bottom: 0px !important;color: rgb(255,255,255) !important;--tcb-applied-color: var$(--tcb-color-1) !important;--tve-applied-color: var$(--tcb-color-1) !important;}:not(#tve) [data-css="tve-u-18b3cc5b464"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3cc5b466"]{--tcb-applied-color: var$(--tcb-color-1) !important;}[data-css="tve-u-18b3cc72087"]{height: 400px;}:not(#tve) [data-css="tve-u-18b3cc8ab91"]{--g-regular-weight: 400;--g-bold-weight: 500;font-family: Montserrat !important;font-size: 28px !important;padding-bottom: 0px !important;margin-bottom: 0px !important;color: rgb(0,0,0) !important;--tcb-applied-color: var$(--tcb-color-2) !important;--tve-applied-color: var$(--tcb-color-2) !important;}:not(#tve) [data-css="tve-u-18b3cc8ab91"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3cc8ab93"]{--tcb-applied-color: var$(--tcb-color-2) !important;}:not(#tve) [data-css="tve-u-18b3cc93633"]{--g-regular-weight: 400;--g-bold-weight: 500;font-family: Montserrat !important;font-size: 18px !important;padding-bottom: 0px !important;margin-bottom: 0px !important;color: rgb(0,0,0) !important;--tcb-applied-color: var$(--tcb-color-2) !important;--tve-applied-color: var$(--tcb-color-2) !important;font-weight: var(--g-regular-weight,normal) !important;text-transform: lowercase !important;}:not(#tve) [data-css="tve-u-18b3cc93633"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3cc93637"]{--tcb-applied-color: var$(--tcb-color-2) !important;}[data-css="tve-u-18b3cc9899e"]{max-width: 50%;}:not(#tve) [data-css="tve-u-18b3cc9c85b"]{padding-bottom: 0px !important;margin-bottom: 0px !important;font-weight: var(--g-bold-weight,bold) !important;}[data-css="tve-u-18b3cc9f301"]{font-family: Montserrat !important;font-weight: 400 !important;font-size: 18px !important;}[data-css="tve-u-18b3cc9f301"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3ccadaaa"]{font-family: Montserrat !important;font-weight: 400 !important;}[data-css="tve-u-18b3ccadaaa"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3ccadaad"]{font-size: 18px !important;}[data-css="tve-u-18b3ccadaaf"]{font-size: 18px !important;}[data-css="tve-u-18b3ccadab3"]{font-family: Montserrat !important;font-weight: 400 !important;}[data-css="tve-u-18b3ccadab3"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3ccadab6"]{font-family: Montserrat !important;font-weight: 400 !important;}[data-css="tve-u-18b3ccadab6"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3ccadaba"]{font-family: Montserrat !important;font-weight: 400 !important;}[data-css="tve-u-18b3ccadaba"] strong{font-weight: 500 !important;}[data-css="tve-u-18b3ccb95b6"]{margin-top: 10px !important;}[data-css="tve-u-18b3ccd2a72"]{--tve-alignment: left;float: left;z-index: 3;position: relative;--tcb-local-color-f3080: rgb(23,23,22) !important;--tcb-local-color-f2bba: rgba(23,23,22,0.5) !important;--tcb-local-color-trewq: rgba(23,23,22,0.7) !important;--tcb-local-color-poiuy: rgba(23,23,22,0.35) !important;--tcb-local-color-f83d7: rgba(23,23,22,0.4) !important;--tcb-local-color-frty6: rgba(23,23,22,0.2) !important;--tcb-local-color-flktr: rgba(23,23,22,0.8) !important;margin-left: auto !important;margin-right: auto !important;}[data-css="tve-u-18b3ccd2a72"] .tve_social_items{font-size: 12px !important;}[data-css="tve-u-18b3cd2b129"]::after{clear: both;}[data-css="tve-u-18b3ce960b7"]{--tve-border-radius: 50px;}.tve_social_items .tve_s_item[data-css="tve-u-18b3ce960b7"]{overflow: hidden;border-radius: 50px !important;}[data-css="tve-u-18b3ce960b8"]{font-size: 12px !important;}[data-css="tve-u-18b3ce960bb"]{--tve-border-radius: 50px;}.tve_social_items .tve_s_item[data-css="tve-u-18b3ce960bb"]{overflow: hidden;border-radius: 50px !important;}[data-css="tve-u-18b3ce960bc"]{font-size: 12px !important;}[data-css="tve-u-18b3ce960be"]{--tve-border-radius: 50px;}.tve_social_items .tve_s_item[data-css="tve-u-18b3ce960be"]{overflow: hidden;border-radius: 50px !important;}[data-css="tve-u-18b3ce960bf"]{font-size: 12px !important;}[data-css="tve-u-18b3ce960c2"]{--tve-border-radius: 50px;}.tve_social_items .tve_s_item[data-css="tve-u-18b3ce960c2"]{overflow: hidden;border-radius: 50px !important;}[data-css="tve-u-18b3ce960c3"]{font-size: 12px !important;}[data-css="tve-u-18b3ce960c6"]{--tve-border-radius: 50px;}.tve_social_items .tve_s_item[data-css="tve-u-18b3ce960c6"]{overflow: hidden;border-radius: 50px !important;}[data-css="tve-u-18b3ce960c7"]{font-size: 12px !important;}:not(#tve) [data-css="tve-u-18b3ced270b"]{padding-bottom: 0px !important;margin-bottom: 0px !important;}[data-css="tve-u-18b3ced772f"]{margin-top: 25px !important;}[data-css="tve-u-18d1bf1f574"] .tcb-button-link{border: 2px solid var(--tcb-local-color-bb451);border-radius: 100px;overflow: hidden;letter-spacing: var(--tve-letter-spacing,2px);--tve-applied-border: 2px solid var$(--tcb-local-color-bb451);background-color: transparent !important;padding: 10px 18px !important;background-image: linear-gradient(rgb(255,228,0),rgb(255,228,0)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgb(255,228,0),rgb(255,228,0)) !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(var$(--tcb-color-0),var$(--tcb-color-0)) !important;}:not(#tve) [data-css="tve-u-18d1bf1f574"] .tcb-button-link span{color: var(--tve-color,var(--tcb-local-color-bb451));--tcb-applied-color: var$(--tcb-local-color-bb451);text-transform: var(--tve-text-transform,none);}[data-css="tve-u-18d1bf1f574"]{--tve-color: var(--tcb-local-color-bb451);--tve-text-transform: none;--tve-font-size: 18px;--tve-letter-spacing: 2px;--tcb-local-color-d7ffe: rgb(19,114,211);--tve-alignment: center;float: none;display: block;max-width: 68%;width: 68%;--tve-border-width: 2px;--tcb-local-color-bb451: rgb(51,51,51) !important;margin-left: auto !important;margin-right: auto !important;}:not(#tve) [data-css="tve-u-18d1bf1f574"] .tcb-button-link{font-size: var(--tve-font-size,18px) !important;}:not(#tve) [data-css="tve-u-18d1bf1f574"]:hover .tcb-button-link{background-image: linear-gradient(rgba(255,255,255,0.18),rgba(255,255,255,0.18)) !important;border: 4px solid var(--tcb-local-color-bb451) !important;background-color: var(--tcb-local-color-bb451) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;}:not(#tve) [data-css="tve-u-18d1bf1f574"]:hover .tcb-button-link span{color: var(--tve-color,rgb(255,255,255)) !important;--tcb-applied-color: rgb(255,255,255) !important;}:not(#tve) [data-css="tve-u-18d1bf1f574"]:hover{--tve-color: rgb(255,255,255) !important;}body:not(.tcb-states) [data-css="tve-u-18d1bf1f574"] .tcb-button-link::before{background-color: rgba(0,0,0,0);background-attachment: scroll !important;background-image: linear-gradient(rgb(255,228,0),rgb(255,228,0)) !important;background-position: 50% 50% !important;background-repeat: no-repeat !important;background-size: auto !important;--background-image: linear-gradient(rgb(255,228,0),rgb(255,228,0)) !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;}[data-css="tve-u-18d1bf1f574"] .tcb-button-link::after{background-color: var(--tcb-local-color-bb451) !important;background-image: linear-gradient(rgba(255,255,255,0.18),rgba(255,255,255,0.18)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;}:not(#tve) [data-css="tve-u-18d1bf1f574"].tve-state-active .tcb-button-link span{color: var(--tve-color,rgb(255,255,255));--tve-applied-color: var$(--tve-color,rgb(255,255,255));--tcb-applied-color: rgb(255,255,255);}:not(#tve) [data-css="tve-u-18d1bf1f574"].tve-state-active{--tve-color: rgb(255,255,255);--tve-applied---tve-color: rgb(255,255,255);}:not(#tve) [data-css="tve-u-18d1bf1f574"].tve-state-active .tcb-button-link{background-color: var(--tcb-local-color-bb451) !important;--background-color: var(--tcb-local-color-bb451) !important;--tve-applied-background-color: var$(--tcb-local-color-bb451) !important;background-image: linear-gradient(rgba(0,0,0,0.38),rgba(0,0,0,0.38)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgba(0,0,0,0.38),rgba(0,0,0,0.38)) !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(rgba(0,0,0,0.38),rgba(0,0,0,0.38)) !important;}[data-css="tve-u-18d1bf1f576"]{font-weight: var(--g-bold-weight,bold) !important;}:not(#tve) [data-css="tve-u-18d1bf1f576"]{text-transform: uppercase !important;}}@media (max-width: 767px){[data-css="tve-u-18b3cc2d1d5"]{max-width: 313px;}[data-css="tve-u-18b3cc32344"]{background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://goldsgym.in/wp-content/uploads/2023/12/Contact-us-410x350-1.jpg") !important;--background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://goldsgym.in/wp-content/uploads/2023/12/Contact-us-410x350-1.jpg") !important;--tve-applied-background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://goldsgym.in/wp-content/uploads/2023/12/Contact-us-410x350-1.jpg") !important;}[data-css="tve-u-18d1bf1f574"] .tcb-button-link{padding: 16px !important;}}</style> 					<style type="text/css" id="wp-custom-css">
+			.menu-trail span{color: #000 !important;
+    background-color: #f9e602;
+    padding: 9px 20px;
+    border-radius: 23px;}
+.menu-trail span:hover{color: #fff !important;
+    background-color: #000;
+    padding: 9px 20px;
+    border-radius: 23px;}
+.header-4-container{    border-bottom: 5px solid #01adf0 !important;}
+.col-full.topbar-wrapper {
+    background-color: #000 !important;
+    border-bottom-color: #fff !important;
+	color:#fff !important;
+}
+.top-bar, .top-bar a{color:#fff !important;}		</style>
+		<style id="kirki-inline-styles">.header-4 .site-header .custom-logo-link img{height:70px;}.price ins, .summary .yith-wcwl-add-to-wishlist a:before, .site .commercekit-wishlist a i:before, .commercekit-wishlist-table .price, .commercekit-wishlist-table .price ins, .commercekit-ajs-product-price, .commercekit-ajs-product-price ins, .widget-area .widget.widget_categories a:hover, #secondary .widget ul li a:hover, #secondary.widget-area .widget li.chosen a, .widget-area .widget a:hover, #secondary .widget_recent_comments ul li a:hover, .woocommerce-pagination .page-numbers li .page-numbers.current, div.product p.price, body:not(.mobile-toggled) .main-navigation ul.menu li.full-width.menu-item-has-children ul li.highlight > a, body:not(.mobile-toggled) .main-navigation ul.menu li.full-width.menu-item-has-children ul li.highlight > a:hover, #secondary .widget ins span.amount, #secondary .widget ins span.amount span, .search-results article h2 a:hover{color:#ffe400;}.spinner > div, .widget_price_filter .ui-slider .ui-slider-range, .widget_price_filter .ui-slider .ui-slider-handle, #page .woocommerce-tabs ul.tabs li span, #secondary.widget-area .widget .tagcloud a:hover, .widget-area .widget.widget_product_tag_cloud a:hover, footer .mc4wp-form input[type="submit"], #payment .payment_methods li.woocommerce-PaymentMethod > input[type=radio]:first-child:checked + label:before, #payment .payment_methods li.wc_payment_method > input[type=radio]:first-child:checked + label:before, #shipping_method > li > input[type=radio]:first-child:checked + label:before, ul#shipping_method li:only-child label:before, .image-border .elementor-image:after, ul.products li.product .yith-wcwl-wishlistexistsbrowse a:before, ul.products li.product .yith-wcwl-wishlistaddedbrowse a:before, ul.products li.product .yith-wcwl-add-button a:before, .summary .yith-wcwl-add-to-wishlist a:before, li.product .commercekit-wishlist a em.cg-wishlist-t:before, li.product .commercekit-wishlist a em.cg-wishlist:before, .site .commercekit-wishlist a i:before, .summary .commercekit-wishlist a i.cg-wishlist-t:before, #page .woocommerce-tabs ul.tabs li a span, .commercekit-atc-tab-links li a span, .main-navigation ul li a span strong, .widget_layered_nav ul.woocommerce-widget-layered-nav-list li.chosen:before{background-color:#ffe400;}.woocommerce-tabs .tabs li a::after, .commercekit-atc-tab-links li a:after{border-color:#ffe400;}a{color:#000000;}a:hover{color:#eeee22;}body{background-color:#fff;}.col-full.topbar-wrapper{background-color:#ffe400;border-bottom-color:#eee;}.top-bar, .top-bar a{color:#333;}body:not(.header-4) .site-header, .header-4-container{background-color:#ffffff;}.fa.menu-item, .ri.menu-item{border-left-color:#eee;}.header-4 .search-trigger span{border-right-color:#eee;}.header-widget-region{background-color:#dc9814;}.header-widget-region, .header-widget-region a{color:#fff;}.button, .button:hover, .commercekit-wishlist-table button, input[type=submit], ul.products li.product .button, ul.products li.product .added_to_cart, .site .widget_shopping_cart a.button.checkout, .woocommerce #respond input#submit.alt, .main-navigation ul.menu ul li a.button, .main-navigation ul.menu ul li a.button:hover, body .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li a.button:hover, .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li:hover a.added_to_cart, .site div.wpforms-container-full .wpforms-form button[type=submit], .product .cart .single_add_to_cart_button, .woocommerce-cart p.return-to-shop a, .elementor-row .feature p a, .image-feature figcaption span{color:#fff;}.single-product div.product form.cart .button.added::before{background-color:#fff;}.button, input[type=submit], ul.products li.product .button, .commercekit-wishlist-table button, .woocommerce #respond input#submit.alt, .product .cart .single_add_to_cart_button, .widget_shopping_cart a.button.checkout, .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li a.added_to_cart, .site div.wpforms-container-full .wpforms-form button[type=submit], ul.products li.product .added_to_cart, .woocommerce-cart p.return-to-shop a, .elementor-row .feature a, .image-feature figcaption span{background-color:#3bb54a;}.widget_shopping_cart a.button.checkout{border-color:#3bb54a;}.button:hover, [type="submit"]:hover, .commercekit-wishlist-table button:hover, ul.products li.product .button:hover, #place_order[type="submit"]:hover, body .woocommerce #respond input#submit.alt:hover, .product .cart .single_add_to_cart_button:hover, .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li a.added_to_cart:hover, .site div.wpforms-container-full .wpforms-form button[type=submit]:hover, .site div.wpforms-container-full .wpforms-form button[type=submit]:focus, ul.products li.product .added_to_cart:hover, .widget_shopping_cart a.button.checkout:hover, .woocommerce-cart p.return-to-shop a:hover{background-color:#009245;}.widget_shopping_cart a.button.checkout:hover{border-color:#009245;}.onsale, .product-label, .wc-block-grid__product-onsale{background-color:#3bb54a;color:#fff;}.content-area .summary .onsale{color:#3bb54a;}.summary .product-label:before, .product-details-wrapper .product-label:before{border-right-color:#3bb54a;}.entry-content .testimonial-entry-title:after, .cart-summary .widget li strong::before, p.stars.selected a.active::before, p.stars:hover a::before, p.stars.selected a:not(.active)::before{color:#ee9e13;}.star-rating > span:before{background-color:#ee9e13;}header.woocommerce-products-header, .shoptimizer-category-banner{background-color:#efeee3;}.term-description p, .term-description a, .term-description a:hover, .shoptimizer-category-banner h1, .shoptimizer-category-banner .taxonomy-description p{color:#222;}.single-product .site-content .col-full{background-color:#f8f8f8;}.call-back-feature a{background-color:#dc9814;color:#fff;}ul.checkout-bar:before, .woocommerce-checkout .checkout-bar li.active:after, ul.checkout-bar li.visited:after{background-color:#3bb54a;}.below-content .widget .ri{color:#999;}.below-content .widget svg{stroke:#999;}footer.site-footer, footer.copyright{background-color:#111;color:#ccc;}.site footer.site-footer .widget .widget-title, .site-footer .widget.widget_block h2{color:#fff;}footer.site-footer a:not(.button), footer.copyright a{color:#999;}footer.site-footer a:not(.button):hover, footer.copyright a:hover{color:#fff;}footer.site-footer li a:after{border-color:#fff;}.top-bar{font-size:14px;}.menu-primary-menu-container > ul > li > a span:before{border-color:#000000;}.secondary-navigation .menu a, .ri.menu-item:before, .fa.menu-item:before{color:#404040;}.secondary-navigation .icon-wrapper svg{stroke:#404040;}.site-header-cart a.cart-contents .count, .site-header-cart a.cart-contents .count:after{border-color:#ffffff;}.site-header-cart a.cart-contents .count, .shoptimizer-cart-icon i{color:#ffffff;}.site-header-cart a.cart-contents:hover .count, .site-header-cart a.cart-contents:hover .count{background-color:#ffffff;}.site-header-cart .cart-contents{color:#000000;}.header-widget-region .widget{padding-top:15px;padding-bottom:15px;}.site .header-widget-region p{font-size:14px;}.col-full, .single-product .site-content .shoptimizer-sticky-add-to-cart .col-full, body .woocommerce-message, .single-product .site-content .commercekit-sticky-add-to-cart .col-full{max-width:1170px;}.product-details-wrapper, .single-product .woocommerce-Tabs-panel, .single-product .archive-header .woocommerce-breadcrumb, .plp-below.archive.woocommerce .archive-header .woocommerce-breadcrumb, .related.products, #sspotReviews, .upsells.products, .composite_summary, .composite_wrap{max-width:calc(1170px + 5.2325em);}.main-navigation ul li.menu-item-has-children.full-width .container, .single-product .woocommerce-error{max-width:1170px;}.below-content .col-full, footer .col-full{max-width:calc(1170px + 40px);}#secondary{width:17%;}.content-area{width:76%;}body, button, input, select, option, textarea, h6{font-family:Montserrat;color:#333;}.menu-primary-menu-container > ul > li > a, .site-header-cart .cart-contents{font-family:IBM Plex Sans;font-size:16px;font-weight:400;letter-spacing:-0.1px;text-transform:none;}.main-navigation ul.menu ul li > a, .main-navigation ul.nav-menu ul li > a{font-family:IBM Plex Sans;font-size:15px;font-weight:400;text-transform:none;}.main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li.menu-item-has-children > a, .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li.heading > a{color:#333;}.entry-content{font-family:Montserrat;font-size:16px;color:#333;}h1{font-family:Montserrat;color:#333;}h2{font-family:Montserrat;color:#333;}h3{font-family:Montserrat;color:#333;}h4{font-family:Montserrat;color:#333;}h5{font-family:Montserrat;color:#333;}blockquote p{font-family:Montserrat;}.widget .widget-title, .widget .widgettitle, .widget.widget_block h2{font-family:Montserrat;}body.single-post h1{font-family:Montserrat;}.term-description, .shoptimizer-category-banner .taxonomy-description{font-family:Montserrat;font-size:16px;}.content-area ul.products li.product .woocommerce-loop-product__title, .content-area ul.products li.product h2, ul.products li.product .woocommerce-loop-product__title, ul.products li.product .woocommerce-loop-product__title, .main-navigation ul.menu ul li.product .woocommerce-loop-product__title a, .wc-block-grid__product .wc-block-grid__product-title{font-family:IBM Plex Sans;font-size:15px;font-weight:600;letter-spacing:0px;line-height:1.3;text-transform:none;}.summary h1{font-family:IBM Plex Sans;font-size:32px;font-weight:600;letter-spacing:-0.5px;line-height:1.2;text-transform:none;}body .woocommerce #respond input#submit.alt, body .woocommerce a.button.alt, body .woocommerce button.button.alt, body .woocommerce input.button.alt, .product .cart .single_add_to_cart_button, .shoptimizer-sticky-add-to-cart__content-button a.button, .widget_shopping_cart a.button.checkout, #cgkit-tab-commercekit-sticky-atc-title button, #cgkit-mobile-commercekit-sticky-atc button{font-family:IBM Plex Sans;font-size:16px;font-weight:600;letter-spacing:0px;text-transform:none;}@media (max-width: 992px){.main-header, .site-branding{height:70px;}.main-header .site-header-cart{top:calc(-14px + 70px / 2);}.sticky-m .mobile-filter{top:70px;}.commercekit-atc-sticky-tabs{top:calc(70px - 1px);}.m-search-bh .commercekit-atc-sticky-tabs, .m-search-toggled .commercekit-atc-sticky-tabs{top:calc(70px + 60px - 1px);}.m-search-bh.sticky-m .mobile-filter, .m-search-toggled.sticky-m .mobile-filter{top:calc(70px + 60px);}.sticky-m .cg-layout-vertical-scroll .cg-thumb-swiper{top:calc(70px + 10px);}body.theme-shoptimizer .site-header .custom-logo-link img, body.wp-custom-logo .site-header .custom-logo-link img{height:50px;}.m-search-bh .site-search, .m-search-toggled .site-search, .site-branding button.menu-toggle, .site-branding button.menu-toggle:hover{background-color:#ffffff;}.menu-toggle .bar, .site-header-cart a.cart-contents:hover .count{background-color:#000000;}.menu-toggle .bar-text, .menu-toggle:hover .bar-text, .site-header-cart a.cart-contents .count{color:#000000;}.mobile-search-toggle svg, .mobile-myaccount svg{stroke:#000000;}.site-header-cart a.cart-contents:hover .count{background-color:#dd9933;}.site-header-cart a.cart-contents:not(:hover) .count{color:#dd9933;}.shoptimizer-cart-icon svg{stroke:#dd9933;}.site-header .site-header-cart a.cart-contents .count, .site-header-cart a.cart-contents .count:after{border-color:#dd9933;}.col-full-nav{background-color:#ffffff;}.main-navigation ul li a, body .main-navigation ul.menu > li.menu-item-has-children > span.caret::after, .main-navigation .woocommerce-loop-product__title, .main-navigation ul.menu li.product, body .main-navigation ul.menu li.menu-item-has-children.full-width>.sub-menu-wrapper li h6 a, body .main-navigation ul.menu li.menu-item-has-children.full-width>.sub-menu-wrapper li h6 a:hover, .main-navigation ul.products li.product .price, body .main-navigation ul.menu li.menu-item-has-children li.menu-item-has-children span.caret, body.mobile-toggled .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li p.product__categories a, body.mobile-toggled ul.products li.product p.product__categories a, body li.menu-item-product p.product__categories, main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li.menu-item-has-children > a, .main-navigation ul.menu li.menu-item-has-children.full-width > .sub-menu-wrapper li.heading > a, .mobile-extra, .mobile-extra h4, .mobile-extra a:not(.button){color:#000000;}.main-navigation ul.menu li.menu-item-has-children span.caret::after{background-color:#000000;}.main-navigation ul.menu > li.menu-item-has-children.dropdown-open > .sub-menu-wrapper{border-bottom-color:#eee;}}@media (min-width: 992px){.top-bar .textwidget{padding-top:0px;padding-bottom:0px;}}@media (min-width: 993px){.header-4 .header-4-container{height:90px;}.header-4 .menu-primary-menu-container > ul > li > a, .header-4 .search-trigger{line-height:90px;}.header-4 .menu-primary-menu-container > ul > li > a, .header-4 .site-header-cart .cart-contents .amount, .header-4 .search-trigger, .header-4 .search-trigger:hover{color:#000000;}.header-4 .main-navigation ul.menu > li.menu-item-has-children > a::after, .header-4 .main-navigation ul.menu > li.page_item_has_children > a::after, .header-4 .main-navigation ul.nav-menu > li.menu-item-has-children > a::after, .header-4 .main-navigation ul.nav-menu > li.page_item_has_children > a::after{background-color:#000000;}.main-navigation ul.menu ul.sub-menu{background-color:#ffffff;}.main-navigation ul.menu ul li a, .main-navigation ul.nav-menu ul li a{color:#000000;}.main-navigation ul.menu ul a:hover{color:#000000;}.shoptimizer-cart-icon svg{stroke:#ffffff;}.site-header-cart a.cart-contents:hover .count{color:#eeee22;}body.header-4:not(.full-width-header) .header-4-inner, .summary form.cart.commercekit_sticky-atc .commercekit-pdp-sticky-inner, .commercekit-atc-sticky-tabs ul.commercekit-atc-tab-links{max-width:1170px;}}/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXpsog.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aXpsog.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXpsog.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdzeFb5N.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdXeFb5N.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdLeFb5N.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhd7eFb5N.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhd_eFb5N.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdO_q.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdO_q.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdO_q.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdO_q.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdO_q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXpsog.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aXpsog.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXpsog.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdzeFb5N.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdXeFb5N.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdLeFb5N.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhd7eFb5N.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhd_eFb5N.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdO_q.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdO_q.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdO_q.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdO_q.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdO_q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXpsog.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aXpsog.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw2aXpsog.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXpsog.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdzeFb5N.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdXeFb5N.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdLeFb5N.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhd7eFb5N.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhd_eFb5N.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYXgKVElMYYaJe8bpLHnCwDKhdHeFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdO_q.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIVsdO_q.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIJsdO_q.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI5sdO_q.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AI9sdO_q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://goldsgym.in/wp-content/fonts/ibm-plex-sans/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>
+<script src="./contact_files/wp-emoji-release.min.js.download" defer=""></script><style type="text/css" id="tve-frontend-compat-css">.thrv-page-section.safari-ios-decoration-fix, .thrv-content-box.safari-ios-decoration-fix { -webkit-transform: translate3d(0, 0, 0) !important;}.thrv_wrapper + #thrive-header { position: static;}</style><link rel="stylesheet" href="./contact_files/floatbutton1_sIFJR6_0NTWYcDIhgs7UTL9Mv_jQXRhnrfuq98-0V1xRJJleC_wyHUjPXCONcbVz_.css" integrity="sha384-sIFJR6/0NTWYcDIhgs7UTL9Mv/jQXRhnrfuq98+0V1xRJJleC/wyHUjPXCONcbVz" crossorigin="anonymous"><script src="./contact_files/floatbutton1_icP5loFEJNdDO-ZIyVITAEdGpgI6YNkxN2RMwWfb5qTg9xSIk2CD-L5Xn2zaBKib_.js.download" integrity="sha384-icP5loFEJNdDO+ZIyVITAEdGpgI6YNkxN2RMwWfb5qTg9xSIk2CD+L5Xn2zaBKib" crossorigin="anonymous"></script><script src="./contact_files/floatbutton1_icP5loFEJNdDO-ZIyVITAEdGpgI6YNkxN2RMwWfb5qTg9xSIk2CD-L5Xn2zaBKib_(1).js.download"></script><link rel="stylesheet" href="./contact_files/floatbutton1.css"></head>
+
+<body class="page-template page-template-template-fullwidth-no-heading page-template-template-fullwidth-no-heading-php page page-id-295 wp-custom-logo theme-shoptimizer woocommerce-js shoptimizer-full-width-content sticky-m sticky-d header-4 sticky-b pdp-full right-archives-sidebar wc-active product-align-left tve-desktop-browser tve-chrome-browser tve-version-browser">
+
+
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" browsingtopics="true" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="./contact_files/ads.html" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins><div class="mobile-menu close-drawer">
+				<span aria-hidden="true">
+					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg>
+				</span>
+		</div>
+<div id="page" class="hfeed site">
+
+			<a class="skip-link screen-reader-text" href="https://goldsgym.in/contact/#site-navigation">Skip to navigation</a>
+		<a class="skip-link screen-reader-text" href="https://goldsgym.in/contact/#content">Skip to content</a>
+				<div class="shoptimizer-mini-cart-wrap">
+			<div id="ajax-loading" style="display: none;">
+				<div class="shoptimizer-loader">
+					<div class="spinner">
+					<div class="bounce1"></div>
+					<div class="bounce2"></div>
+					<div class="bounce3"></div>
+					</div>
+				</div>
+			</div>
+			<div class="cart-drawer-heading">Your Cart</div>
+			<div class="close-drawer">
+				<span aria-hidden="true">
+					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg>
+				</span>
+			</div>
+
+				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>
+			</div>
+
+
+			
+	
+		
+					<div class="col-full topbar-wrapper hide-on-mobile">
+				
+			<div class="top-bar">
+				<div class="col-full">
+					<div class="top-bar-left  widget_text">			<div class="textwidget"><p><a href="tel:+91 8976834832">&nbsp;+91 8976834832</a> | <a href="mailto:wecare@goldsgym.in">wecare@goldsgym.in</a></p>
+</div>
+		</div>					<div class="top-bar-center  widget_text">			<div class="textwidget">	<p>Welcome to Gold's Gym India.</p>
+
+</div>
+		</div>					<div class="top-bar-right  widget_text">			<div class="textwidget">			<ul class="social social-big" style="    margin: 7px 0 7px 0 !important;">
+			<li><a target="_blank" href="https://www.facebook.com/GoldsGymIndia" class="social-fb fa fa-facebook" rel="noopener"></a></li>
+			<li><a target="_blank" href="https://twitter.com/GoldsGymIndia" class="social-twitter fa fa-twitter" rel="noopener"></a></li>
+			<li><a target="_blank" href="https://www.youtube.com/channel/UCCPNLx0irb9sbFdsdTCV6rg" class="social-youtube fa fa-youtube" rel="noopener"></a></li>
+			<li><a target="_blank" href="https://www.instagram.com/goldsgymindia/" class="social-inst fa fa-instagram" rel="noopener"></a></li>
+			<li><a target="_blank" href="https://www.linkedin.com/company/gold-s-gym-india/" class="social-link fa fa-linkedin" rel="noopener"></a></li>
+		</ul>
+	
+
+</div>
+		</div>				</div>
+			</div>
+		</div>
+			
+					<div class="header-4-container">
+				<div class="header-4-inner">
+		
+	<header id="masthead" class="site-header">
+
+		<div class="menu-overlay"></div>
+
+		<div class="main-header col-full">
+
+					<div class="site-branding">
+			<button class="menu-toggle" aria-label="Menu" aria-controls="site-navigation" aria-expanded="false">
+				<span class="bar"></span><span class="bar"></span><span class="bar"></span>
+					
+			</button>
+			<a href="https://goldsgym.in/" class="custom-logo-link"><img width="563" height="564" src="./contact_files/fullcolor.png" class="custom-logo" alt="Golds Gym" srcset="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/10/fullcolor.png?w=563&amp;ssl=1 563w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/10/fullcolor.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/10/fullcolor.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/10/fullcolor.png?resize=441%2C442&amp;ssl=1 441w" sizes="(max-width: 360px) 147px, (max-width: 563px) 100vw, 563px"></a>		</div>
+					
+									
+												<div class="site-search">
+						
+							<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://goldsgym.in/" siq_id="autopick_5975">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products…" value="" name="s">
+	<button type="submit" value="Search" class="">Search</button>
+	<input type="hidden" name="post_type" value="product">
+</form>
+</div>						</div>
+														
+
+
+
+		<ul class="site-header-cart menu">
+			<li>			
+	<div class="cart-click">
+
+					<a class="cart-contents" href="https://goldsgym.in/contact/#" title="View your shopping cart">
+		
+		<span class="amount"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">₹</span>0</span></span>
+
+		
+		<span class="count">0</span>
+		
+		
+		
+
+		</a>
+	</div>	
+		</li>
+		</ul>
+		
+					
+		</div>
+
+
+	</header><!-- #masthead -->
+
+	
+	<div class="col-full-nav">
+
+			<nav id="site-navigation" class="main-navigation" aria-label="Primary Navigation">
+
+			
+			<div class="primary-navigation">				
+			
+					
+						<div class="menu-primary-menu-container">
+				<ul id="menu-main-menu" class="menu"><li id="nav-menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://goldsgym.in/contact/#" class="cg-menu-link main-menu-link"><span>Get Started</span></a><span class="caret"></span>
+<div class="sub-menu-wrapper"><div class="container"><ul class="sub-menu">
+	<li id="nav-menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/gold-gyms/" class="cg-menu-link sub-menu-link"><span>Our Gyms India</span></a></li>
+	<li id="nav-menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgymnepal.com/" class="cg-menu-link sub-menu-link"><span>Our Gyms Nepal</span></a></li>
+	<li id="nav-menu-item-2242" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://goldsgymbangladesh.com/" class="cg-menu-link sub-menu-link"><span>Our Gyms Bangladesh</span></a></li>
+	<li id="nav-menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/buy-membership-now/" class="cg-menu-link sub-menu-link"><span>Buy Membership Now</span></a></li>
+	<li id="nav-menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/blogs/" class="cg-menu-link sub-menu-link"><span>Blogs</span></a></li>
+	<li id="nav-menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/our-events/" class="cg-menu-link sub-menu-link"><span>Our Events</span></a></li>
+	<li id="nav-menu-item-962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="https://goldsgym.in/#coming-soon" class="cg-menu-link sub-menu-link"><span>Coming Soon</span></a></li>
+	<li id="nav-menu-item-963" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/pre-sales/" class="cg-menu-link sub-menu-link"><span>Pre Sale</span></a></li>
+	<li id="nav-menu-item-964" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/newsletter/" class="cg-menu-link sub-menu-link"><span>Newsletter</span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://goldsgym.in/courses/" class="cg-menu-link main-menu-link"><span>Fitness Institute – GGFI</span></a><span class="caret"></span>
+<div class="sub-menu-wrapper"><div class="container"><ul class="sub-menu">
+	<li id="nav-menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/gymcourse/" class="cg-menu-link sub-menu-link"><span>GGFI About Us</span></a></li>
+	<li id="nav-menu-item-584" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/gymcourse#faculity" class="cg-menu-link sub-menu-link"><span>Our Faculty</span></a></li>
+	<li id="nav-menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/gymcourse#accreditations" class="cg-menu-link sub-menu-link"><span>Certification &amp; Accreditations</span></a></li>
+	<li id="nav-menu-item-2026" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/courses-offered/" class="cg-menu-link sub-menu-link"><span>Courses Offered</span></a></li>
+	<li id="nav-menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/courses/" class="cg-menu-link sub-menu-link"><span>Buy a Course</span></a></li>
+	<li id="nav-menu-item-2027" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/book-a-demo-class/" class="cg-menu-link sub-menu-link"><span>Book a Demo&nbsp;Class</span></a></li>
+	<li id="nav-menu-item-1029" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/contact/#" class="cg-menu-link sub-menu-link"><span>Our Affiliate Program</span></a></li>
+	<li id="nav-menu-item-2359" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/contact/#" class="cg-menu-link sub-menu-link"><span>Certificate Verification</span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/gallery/" class="cg-menu-link main-menu-link"><span>Gallery</span></a></li>
+<li id="nav-menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://goldsgym.in/contact/#" class="cg-menu-link main-menu-link"><span>Programs</span></a><span class="caret"></span>
+<div class="sub-menu-wrapper"><div class="container"><ul class="sub-menu">
+	<li id="nav-menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/goldgym-corporate-memberships/" class="cg-menu-link sub-menu-link"><span>Corporate Memberships</span></a></li>
+	<li id="nav-menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/personal-training-program/" class="cg-menu-link sub-menu-link"><span>Personal Training Program</span></a></li>
+	<li id="nav-menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/ggx-studio/" class="cg-menu-link sub-menu-link"><span>Group Program</span></a></li>
+	<li id="nav-menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/corporate-wellness-program/" class="cg-menu-link sub-menu-link"><span>Corporate Wellness Program</span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://goldsgym.in/franchise/" class="cg-menu-link main-menu-link"><span>Franchise</span></a><span class="caret"></span>
+<div class="sub-menu-wrapper"><div class="container"><ul class="sub-menu">
+	<li id="nav-menu-item-1933" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/franchise/" class="cg-menu-link sub-menu-link"><span>Own a Gold’s Gym Franchise</span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/advertise-with-us/" class="cg-menu-link main-menu-link"><span>Associations, Alliances&nbsp;&amp;&nbsp;Advertising</span></a></li>
+<li id="nav-menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://goldsgym.in/contact/#" class="cg-menu-link main-menu-link"><span>Convention</span></a><span class="caret"></span>
+<div class="sub-menu-wrapper"><div class="container"><ul class="sub-menu">
+	<li id="nav-menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/bangkok-2023/" class="cg-menu-link sub-menu-link"><span>Bangkok 2023</span></a></li>
+	<li id="nav-menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/dubai-2022/" class="cg-menu-link sub-menu-link"><span>Dubai 2022</span></a></li>
+	<li id="nav-menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/kuala-lampur-2029/" class="cg-menu-link sub-menu-link"><span>Kuala Lampur 2019</span></a></li>
+	<li id="nav-menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://goldsgym.in/kochi-2018/" class="cg-menu-link sub-menu-link"><span>Kochi 2018</span></a></li>
+</ul></div></div>
+</li>
+<li id="nav-menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item"><a href="https://goldsgym.in/contact/" class="cg-menu-link main-menu-link"><span>Contact Us</span></a></li>
+<li id="nav-menu-item-1932" class="free-trail menu-trail menu-item menu-item-type-custom menu-item-object-custom"><a href="https://goldsgym.in/buy-membership-now/" class="cg-menu-link main-menu-link"><span>Free Trial</span></a></li>
+</ul>			</div>
+					
+
+		</div>
+		</nav><!-- #site-navigation -->
+		<a href="https://goldsgym.in/contact/#" class="search-trigger" title="Open search modal">
+			<span>
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+			  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+			</svg></span></a>
+	<div class="modal search-main-modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+
+		  <div class="modal-header">
+			<button type="button" class="close-button search-close-button" data-dismiss="modal" aria-label="Close">
+			  <span aria-hidden="true">
+			  	<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+				  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+				</svg>
+			  </span>
+			</button>
+		  </div><!--/modal-header -->
+		  
+		  <div class="modal-body">
+
+																				<div class="site-search">
+													<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://goldsgym.in/" siq_id="autopick_6040">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Search products…" value="" name="s">
+	<button type="submit" value="Search" class="">Search</button>
+	<input type="hidden" name="post_type" value="product">
+</form>
+</div>						</div>
+									
+		  <div class="search-extras">
+		  <h4 class="search-modal-heading">Recently added</h4>
+
+		     			
+
+			<div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-2292 status-publish first instock product_cat-golds-gym sold-individually taxable shipping-taxable purchasable product-type-variable">
+	<div class="woocommerce-image__wrapper"><a href="https://goldsgym.in/our-gyms/golds-gym-gurgaon-67/" aria-label="Gold’s Gym Gurgaon 67" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./contact_files/woocommerce-placeholder.png" class="woocommerce-placeholder wp-post-image" alt="Placeholder" decoding="async" srcset="https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=990%2C990&amp;ssl=1 990w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=441%2C441&amp;ssl=1 441w" sizes="(max-width: 360px) 147px, (max-width: 300px) 100vw, 300px">			
+	</a></div><div class="woocommerce-card__header">					<p class="product__categories"><a href="https://goldsgym.in/product-category/golds-gym/" rel="tag">Gold's Gym</a></p>				<div class="woocommerce-loop-product__title"><a href="https://goldsgym.in/our-gyms/golds-gym-gurgaon-67/" aria-label="Gold’s Gym Gurgaon 67" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Gold’s Gym Gurgaon 67</a></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">₹</span>17,000</bdi></span> – <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">₹</span>34,000</bdi></span></span>
+<a href="https://goldsgym.in/our-gyms/golds-gym-gurgaon-67/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="2292" data-product_sku="" aria-label="Select options for “Gold&#39;s Gym Gurgaon 67”" aria-describedby="This product has multiple variants. The options may be chosen on the product page" rel="nofollow">Select options</a></div></li>
+<li class="product type-product post-2221 status-publish instock product_cat-uncategorized taxable shipping-taxable purchasable product-type-simple">
+	<div class="woocommerce-image__wrapper"><a href="https://goldsgym.in/our-gyms/ggfi-short-course-sports-injuries/" aria-label="GGFI SHORT COURSE – Sports Injuries" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./contact_files/woocommerce-placeholder.png" class="woocommerce-placeholder wp-post-image" alt="Placeholder" decoding="async" srcset="https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=990%2C990&amp;ssl=1 990w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=441%2C441&amp;ssl=1 441w" sizes="(max-width: 360px) 147px, (max-width: 300px) 100vw, 300px">			
+	</a></div><div class="woocommerce-card__header">					<p class="product__categories"><a href="https://goldsgym.in/product-category/uncategorized/" rel="tag">Uncategorized</a></p>				<div class="woocommerce-loop-product__title"><a href="https://goldsgym.in/our-gyms/ggfi-short-course-sports-injuries/" aria-label="GGFI SHORT COURSE – Sports Injuries" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">GGFI SHORT COURSE – Sports Injuries</a></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">₹</span>1,695</bdi></span></span>
+<a href="https://goldsgym.in/contact/?add-to-cart=2221" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="2221" data-product_sku="" aria-label="Add to cart: “GGFI SHORT COURSE – Sports Injuries”" aria-describedby="" rel="nofollow">Add to cart</a></div></li>
+<li class="product type-product post-2179 status-publish last instock product_cat-golds-gym taxable shipping-taxable purchasable product-type-simple">
+	<div class="woocommerce-image__wrapper"><a href="https://goldsgym.in/our-gyms/golds-gym-noida-sector-131/" aria-label="Gold’s Gym Noida Sector 131" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./contact_files/woocommerce-placeholder.png" class="woocommerce-placeholder wp-post-image" alt="Placeholder" decoding="async" srcset="https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=990%2C990&amp;ssl=1 990w, https://i0.wp.com/goldsgym.in/wp-content/uploads/woocommerce-placeholder.png?resize=441%2C441&amp;ssl=1 441w" sizes="(max-width: 360px) 147px, (max-width: 300px) 100vw, 300px">			
+	</a></div><div class="woocommerce-card__header">					<p class="product__categories"><a href="https://goldsgym.in/product-category/golds-gym/" rel="tag">Gold's Gym</a></p>				<div class="woocommerce-loop-product__title"><a href="https://goldsgym.in/our-gyms/golds-gym-noida-sector-131/" aria-label="Gold’s Gym Noida Sector 131" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Gold’s Gym Noida Sector 131</a></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">₹</span>21,490</bdi></span></span>
+<a href="https://goldsgym.in/contact/?add-to-cart=2179" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="2179" data-product_sku="" aria-label="Add to cart: “Gold&#39;s Gym Noida Sector 131”" aria-describedby="" rel="nofollow">Add to cart</a></div></li>
+</ul>
+</div>
+						</div>
+		
+	  	</div><!--/modal-body -->
+	</div>
+</div>
+</div>
+
+			
+
+							
+
+
+
+		<ul class="site-header-cart menu">
+			<li>			
+	<div class="cart-click">
+
+					<a class="cart-contents" href="https://goldsgym.in/contact/#" title="View your shopping cart">
+		
+		<span class="amount"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">₹</span>0</span></span>
+
+		
+		<span class="count">0</span>
+		
+		
+		
+
+		</a>
+	</div>	
+		</li>
+		</ul>
+		
+					
+	</div>
+
+			<div class="mobile-overlay"></div>
+						</div>
+			</div><!--/h4-->
+		
+				
+	<div id="content" class="site-content" tabindex="-1">
+
+		<div class="shoptimizer-archive">
+		<div class="col-full">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<div id="post-295" class="post-295 page type-page status-publish hentry">
+			<div class="entry-content">
+			<div id="tve_flt" class="tve_flt tcb-style-wrap"><div id="tve_editor" class="tve_shortcode_editor tar-main-content" data-post-id="295"><div class="thrv_wrapper thrv-page-section tve-height-update tcb-window-width" style="width: 1519px; left: 8.4px;" data-css="tve-u-18b3cc39833">
+	<div class="tve-page-section-out" style="" data-css="tve-u-18b3cc32344"></div>
+	<div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-18b3cc2d1d5" style=""><div class="thrv_wrapper thrv_text_element"><h3 data-css="tve-u-18b3cc3e99c" style="text-align: center;" class=""><span data-css="tve-u-18b3cc44c6c" style="">CONTACT&nbsp;</span><span data-css="tve-u-18b3cc4d7df" style="">G</span><span data-css="tve-u-18b3cc47eb3" style="">OLD'S GYM</span></h3></div><div class="thrv_wrapper thrv_text_element"><h3 data-css="tve-u-18b3cc5b464" style="text-align: center;" class=""><span data-css="tve-u-18b3cc5b466" style="">WE'D LOVE TO HEAR FROM YOU<br></span></h3></div></div>
+</div><div class="thrv_wrapper thrv-page-section tve-height-update">
+	<div class="tve-page-section-out"></div>
+	<div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-18b3cc539c8"><div class="thrv_wrapper thrv-columns" style="--tcb-col-el-width: 1168;"><div class="tcb-flex-row v-2 tcb--cols--2"><div class="tcb-flex-col" data-css="tve-u-18b3cc9899e" style=""><div class="tcb-col"><div class="thrv_wrapper thrv_text_element contact-form" style="" data-css="tve-u-18b3ced772f">	<p data-css="tve-u-18b3ced270b">
+</p><div class="wpcf7 js" id="wpcf7-f139-p295-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://goldsgym.in/contact/#wpcf7-f139-p295-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" siq_id="autopick_186">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="139">
+<input type="hidden" name="_wpcf7_version" value="5.9.3">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f139-p295-o1">
+<input type="hidden" name="_wpcf7_container_post" value="295">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+<input type="hidden" name="_wpcf7_recaptcha_response" value="03AFcWeA6L5sjXW5NncKUNF5EX53wJ7hkNy6mva92TKb0ztDYXefwi6tWNi54WZJzRODZs8t3xAvrbPk_hX9n4jcd0Q0ZUBNM_NtqOocgBkpNl-1tAVMhzCv3G4fRARlybb_KhPo42jHMdSXWElk94AxoicnUoXZKukdjPRn1eG-HIAKLKJdNlSXdKj9t41OUaXSVt-DuSfLtSnCdjxz_lS4e0dqDh3EY7eo-2U9w6cfI1F5FCKhl9snwjwFuSsVrMBFvOK0yvgUvzu4AMjZtjtEzNNo1gj9ElX8zSH6w_hn9aHab4bmhucCZH3sEclCh7WKlqu8tsA0TxlktijJaMUdsCxnfZXWLImIutSk3JEjXEsGkVGMHrrBblkeEH4SnpwZRQNFg2kWT4OxkAV4ifRojjNAQSQnI683_HgRT7FPkAFBrRPZK3wqsxNOQUm4PlyYkRrvBhiqf3j7At0n2jVFdGoxw-YaelTD7CzDaxyvZNtyXILdngSKHoIxxmxHZMNCYMH1JdlqzA2Hoo-xAivLA8oyZz5k2P4K05CRPDKEy9e0iM-ab_7ZgmBF6gnQMQmv6aXXiJHZ6wJ_EdmyDEdRjqZyBfIIc7YBp37JfOCrQCXodEhxG-VEV00ntZ94DdS65u40vvhEUKW8yp-Zr7VeUBgAeyFVLxXP-yKvPZG5N39altiTsy2We5hxly9A9v0TX8KVzq3HHPJmfORP3I_up_floP6rUZkRO6G-Q8vRjwr9Oo8oASVdKbDrmcF4tkhMKqs-1jFTegCHgg3t1oqbC9Y7QqrMSw8m6BeFaNDG6wr5kfDuqgCeyevREWz3WCGYfQrKaTDKrCMQdXgOpE0nz4tHunorGJpgSpS4-Hyytc5neeRg6TfVDNH5sLgt0u2nUg1U-9H_T1W_2WSPOW_kn388j7Z_NFzqOesUzbg5agDAnN2rgVex2p9W-JpKGDc_izkxq15lLw-DI0asNkOCT_QViTGoXRTgx0BTqRex5MxLvEup02sYJcmNiOZYydgMa1oDysn_JJpGXcGvgwkLpKwlT_hVKN7fZwtDPJzxpmKGT50_KR9dmaBTH3mK4XTD7gb-YGccsQEqFP65sZ9rkWJJVJpBBZbJBC1rObpLn7-IjEzE9JZuhZy3eW2MtXAJ7BzxcgCDVxS_5J0JjYUYts2bHSZc3ltamU0fl308FSg7eMEathvV45w2H4QDbtmZRgTy5toi2-nBJcMVX-79DOsd5aW-VPZEAd1AiM04T8w612kuvQ5z71raBpKxL52hGHyE7IWe4ah3Ej4GIk_ioc0S56K6X_3uo96AJROf1F52x3FDvm-rWoUMFmgG7auqYgHiwQJWJ3hylbrfD2UOY4v-ImWHsgFPJGuLoDHlIgWdoK2kk39e4uDtF7CEAx6zWUqGukkdTuPVSt7CNuvRrZCz102fd6fgRBbn6MaMX2y4tzwRP-i088_eEXVcqNkcZtn--gAYsX-ZN4IL9VVBN73Iy0-lHxP1u18NptK19rgQwRkNIkrMVu6eTFGlEVd93Q5PrnqXSkjTO_cta67npoy2wLN6eGxFlXQyQzXb24JX6_bM5E2fapfpt4RiN6XzIS5H94vmPMCqXiEzo38ZzWT2oHbjOALKorD5RZnvHEnrzJnvGvX7nStq1IZHullGDxpVzXgHN-a2r_WjMBo7B4JtxuI_lsN63tkatCBNqqHcgx9XL3ELbd_5IDs40N-TP23y6mG0xVbOMgCbu-ZFR6Zz_qQrfPeQ">
+</div>
+<p><span class="wpcf7-form-control-wrap" data-name="select-a-department"><select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="select-a-department"><option value="SELECT A DEPARTMENT">SELECT A DEPARTMENT</option><option value="INTERESTED IN FRANCHISE">INTERESTED IN FRANCHISE</option><option value="MARKETING">MARKETING</option><option value="ADVERTISE WITH GOLD’S GYM">ADVERTISE WITH GOLD’S GYM</option><option value="ASSOCIATION &amp; ALLIANCES">ASSOCIATION &amp; ALLIANCES</option><option value="CUSTOMER CARE">CUSTOMER CARE</option><option value="CONTACT A SPECIFIC GYM">CONTACT A SPECIFIC GYM</option><option value="CORPORATE SALES">CORPORATE SALES</option><option value="HR">HR</option><option value="JOB APPLICATION">JOB APPLICATION</option><option value="IT">IT</option><option value="GGFI - FITNESS INSTITUTE">GGFI - FITNESS INSTITUTE</option><option value="ENROLL IN GGFI COURSE">ENROLL IN GGFI COURSE</option><option value="GENERAL">GENERAL</option></select></span><span class="wpcf7-form-control-wrap" data-name="Enter-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter Name" value="" type="text" name="Enter-name"></span><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Enter Email" value="" type="email" name="email"></span><span class="wpcf7-form-control-wrap" data-name="phone"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Enter Phone" value="" type="tel" name="phone"></span>
+<span class="wpcf7-form-control-wrap state_name" data-name="state_name"><input type="hidden" name="state_name" id="" class="wpcf7-form-control wpcf7-hidden wpcf7dtx wpcf7dtx-hidden" aria-invalid="false" value="" list="" autocomplete="off"></span>
+<span class="wpcf7-form-control-wrap city_name" data-name="city_name"><input type="hidden" name="city_name" id="" class="wpcf7-form-control wpcf7-hidden wpcf7dtx wpcf7dtx-hidden" aria-invalid="false" value="" list="" autocomplete="off"></span>
+<span class="wpcf7-form-control-wrap gym_email" data-name="gym_email"><input type="hidden" name="gym_email" id="" class="wpcf7-form-control wpcf7-hidden wpcf7dtx wpcf7dtx-hidden" aria-invalid="false" value="" list="" autocomplete="off"></span><span class="wpcf7-form-control-wrap max_state" data-name="max_state"><select dtx-default="" name="max_state" id="" class="wpcf7-form-control wpcf7-select wpcf7dtx wpcf7dtx-select" aria-invalid="false" required="required" size="1"><option value="" selected="">Select a State</option><option value="26">Andhra Pradesh</option><option value="30">Arunachal Pradesh</option><option value="31">Assam</option><option value="37">Bihar</option><option value="40">Chhattisgarh</option><option value="43">Delhi NCR</option><option value="47">Gujarat</option><option value="49">Haryana</option><option value="56">Jharkhand</option><option value="61">Karnataka</option><option value="66">Kerala</option><option value="70">Madhya Pradesh</option><option value="74">Maharashtra</option><option value="87">Manipur</option><option value="89">Meghalaya</option><option value="92">Orissa</option><option value="94">Punjab</option><option value="104">Rajasthan</option><option value="107">Tamil Nadu</option><option value="109">Telangana</option><option value="111">Uttar Pradesh</option><option value="121">Uttarakhand</option><option value="124">West Bengal</option></select></span><span class="wpcf7-form-control-wrap max_city" data-name="max_city"><select dtx-default="" name="max_city" id="" class="wpcf7-form-control wpcf7-select wpcf7dtx wpcf7dtx-select" aria-invalid="false" size="1"><option value="" selected="" disabled="">Select City</option></select></span><span class="wpcf7-form-control-wrap max_gym" data-name="max_gym"><select dtx-default="" name="max_gym" id="" class="wpcf7-form-control wpcf7-select wpcf7dtx wpcf7dtx-select" aria-invalid="false" size="1"><option value="" selected="" disabled="">Select Gym</option></select></span><span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Enter Message" name="message"></textarea></span>&nbsp;
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit"><span class="wpcf7-spinner"></span>
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+<p></p></div><div class="thrv_wrapper thrv-button thrv-button-v2 tcb-local-vars-root tve_ea_thrive_animation tve_anim_shutter_out_vertical" data-css="tve-u-18d1bf1f574" data-button-style="btn-tpl-58378" style=""><div class="thrive-colors-palette-config" style="display: none !important"></div>
+	
+	<a href="https://goldsgym.in/buy-membership-now/" class="tcb-button-link tcb-plain-text tve_evt_manager_listen tve_et_mouseover" data-tcb-events="__TCB_EVENT_[{&quot;t&quot;:&quot;mouseover&quot;,&quot;config&quot;:{&quot;anim&quot;:&quot;shutter_out_vertical&quot;,&quot;loop&quot;:1},&quot;a&quot;:&quot;thrive_animation&quot;}]_TNEVE_BCT__" style="">
+		<span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" data-css="tve-u-18d1bf1f576" style="">Free Trail</span><span class="tcb-secondary-text thrv-inline-text"></span></span>
+	</a>
+</div></div></div><div class="tcb-flex-col"><div class="tcb-col"><div class="thrv_wrapper thrv-google-map-embedded-code tve-flexible-container" data-css="tve-u-18b3cc72087" style="background-image: url(&quot;https://goldsgym.in/wp-content/plugins/thrive-visual-editor/editor/css/images/placeholder_google_maps_1.png&quot;); background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;">
+	<iframe title="Google Map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="./contact_files/place.html"></iframe>
+</div><div class="thrv_wrapper thrv_text_element"><h3 data-css="tve-u-18b3cc8ab91" style="text-align: center;" class=""><span data-css="tve-u-18b3cc8ab93" style="">GET IN TOUCH<br></span></h3></div><div class="thrv_wrapper thrv_text_element"><h3 data-css="tve-u-18b3cc93633" style="text-align: center;" class=""><span data-css="tve-u-18b3cc93637" style="">WE ARE ALWAYS READY TO HEAR FROM YOU<br>OUR TEAM IS ALWAYS READY TO HEAR FROM YOU. WE MAKE IT A POINT TO RESPOND WITHIN 24 HOURS ON WEEKDAYS AND 48 HOURS ON WEEKENDS<br></span></h3></div><div class="thrv_wrapper thrv_text_element" style="" data-css="tve-u-18b3ccb95b6">	<p data-css="tve-u-18b3cc9c85b"><span style="font-weight: normal;"><span data-css="tve-u-18b3ccadaaa" style="font-family: Montserrat;"><span style="font-size: 18px;" data-css="tve-u-18b3ccadaad"><strong>Address</strong>:-</span></span></span><span style="font-size: 18px;" data-css="tve-u-18b3ccadaaf"><span style="font-weight: normal;"><span data-css="tve-u-18b3ccadab3" style="font-family: Montserrat;">&nbsp;</span></span><span data-css="tve-u-18b3ccadab3" style="font-family: Montserrat; font-weight: 400;">Dhantak Plaza, 203, 2nd Floor, Makwana Rd, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059<br></span><span data-css="tve-u-18b3ccadab6" style="font-family: Montserrat;"><span style="font-weight: normal;">Email</span><strong>:</strong></span><span data-css="tve-u-18b3ccadaba" style="font-family: Montserrat; font-weight: 400;">&nbsp;</span></span><a href="mailto:WeCare@GoldsGym.in" class="" style="outline: none;"><span data-css="tve-u-18b3cc9f301" style="font-family: Montserrat; font-weight: 400; font-size: 18px;">WeCare@GoldsGym.in</span></a> or <a href="mailto:customer.care@goldsgym.in" target="_blank" class="" style="outline: none;">Customer.care@goldsgym.in</a></p><p data-css="tve-u-18b3cc9c85b"><span data-css="tve-u-18b3cc9f301" style="font-family: Montserrat; font-size: 18px;">Phone Number</span><span data-css="tve-u-18b3cc9f301" style="font-family: Montserrat; font-weight: 400; font-size: 18px;">&nbsp;: </span><a href="tel:8976834832" class="" style="outline: none;"><span data-css="tve-u-18b3cc9f301" style="font-family: Montserrat; font-weight: 400; font-size: 18px;">+91 8976834832</span></a></p></div><div class="tcb-clear" data-css="tve-u-18b3cd2b129"><div class="thrv_wrapper thrive_author_links thrv_social_custom thrv_social_follow tcb-local-vars-root tcb-custom-branding-social tve_links_style_4 tcb-icon-display" data-custom-networks="{&quot;xtwitter_share&quot;:{&quot;name&quot;:&quot;x-twitter&quot;,&quot;url&quot;:&quot;https://twitter.com/GoldsGymIndia&quot;}}" data-css="tve-u-18b3ccd2a72" style="--tve-border-radius: 0px; border-radius: 0px;" data-icons-identifiers="{&quot;fb&quot;:&quot;&lt;svg class=\&quot;tcb-icon\&quot; viewBox=\&quot;0 0 264 512\&quot; data-id=\&quot;facebook\&quot; data-name=\&quot;\&quot;&gt;\n            &lt;path d=\&quot;M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229\&quot;&gt;&lt;/path&gt;\n        &lt;/svg&gt;&quot;,&quot;yt&quot;:&quot;&lt;svg class=\&quot;tcb-icon\&quot; viewBox=\&quot;0 0 576 512\&quot; data-id=\&quot;youtube\&quot; data-name=\&quot;\&quot;&gt;\n            &lt;path d=\&quot;M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z\&quot;&gt;&lt;/path&gt;\n        &lt;/svg&gt;&quot;,&quot;t&quot;:&quot;&lt;span class=\&quot;tve_sc_icon icon-x\&quot; data-id=\&quot;icon-x\&quot;&gt;&lt;/span&gt;&quot;,&quot;pin&quot;:&quot;&lt;svg class=\&quot;tcb-icon\&quot; viewBox=\&quot;0 0 384 512\&quot; data-id=\&quot;pinterest\&quot; data-name=\&quot;\&quot;&gt;\n            &lt;path d=\&quot;M204 6.5C101.4 6.5 0 74.9 0 185.6 0 256 39.6 296 63.6 296c9.9 0 15.6-27.6 15.6-35.4 0-9.3-23.7-29.1-23.7-67.8 0-80.4 61.2-137.4 140.4-137.4 68.1 0 118.5 38.7 118.5 109.8 0 53.1-21.3 152.7-90.3 152.7-24.9 0-46.2-18-46.2-43.8 0-37.8 26.4-74.4 26.4-113.4 0-66.2-93.9-54.2-93.9 25.8 0 16.8 2.1 35.4 9.6 50.7-13.8 59.4-42 147.9-42 209.1 0 18.9 2.7 37.5 4.5 56.4 3.4 3.8 1.7 3.4 6.9 1.5 50.4-69 48.6-82.5 71.4-172.8 12.3 23.4 44.1 36 69.3 36 106.2 0 153.9-103.5 153.9-196.8C384 71.3 298.2 6.5 204 6.5z\&quot;&gt;&lt;/path&gt;\n        &lt;/svg&gt;&quot;,&quot;in&quot;:&quot;&lt;svg class=\&quot;tcb-icon\&quot; viewBox=\&quot;0 0 448 512\&quot; data-id=\&quot;linkedin\&quot; data-name=\&quot;\&quot;&gt;\n            &lt;path d=\&quot;M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z\&quot;&gt;&lt;/path&gt;\n        &lt;/svg&gt;&quot;,&quot;ig&quot;:&quot;&lt;svg class=\&quot;tcb-icon\&quot; viewBox=\&quot;0 0 448 512\&quot; data-id=\&quot;instagram\&quot; data-name=\&quot;\&quot;&gt;\n            &lt;path d=\&quot;M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z\&quot;&gt;&lt;/path&gt;\n        &lt;/svg&gt;&quot;,&quot;xtwitter&quot;:&quot;&lt;span class=\&quot;tve_sc_icon icon-x\&quot; data-id=\&quot;icon-x\&quot;&gt;&lt;/span&gt;&quot;}"><div class="thrive-colors-palette-config" style="display: none !important"></div><div class="tve_social_items tve_social_custom tcb-social-follow tve-prevent-content-edit tve_links_style_4 tve_social_itb tcb-local-vars-root" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tve_s_item tve_s_fb_share thrv_wrapper" data-network="fb" data-s="fb_share" data-href="https://www.facebook.com/GoldsGymIndia" data-name="Facebook page" data-css="tve-u-18b3ce960b7">
+
+	<a href="https://www.facebook.com/GoldsGymIndia" class=" " target="_blank" rel="nofollow" data-id="icon-facebook">
+	<span class="tve_s_icon" data-css="tve-u-18b3ce960b8">
+			 <svg class="tcb-icon" viewBox="0 0 264 512" data-id="facebook" data-name="">
+            <path d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path>
+        </svg>
+		</span>
+	</a>
+</div>
+<div class="tve_s_item tve_s_xtwitter_share thrv_wrapper" data-network="xtwitter" data-s="xtwitter_share" data-href="https://twitter.com/GoldsGymIndia" data-name="x-twitter" data-css="tve-u-18b3ce960bb">
+
+	<a href="https://twitter.com/GoldsGymIndia" class=" " target="_blank" rel="nofollow" data-id="icon-link">
+	<span class="tve_s_icon" data-css="tve-u-18b3ce960bc">
+			 <span class="tve_sc_icon icon-x" data-id="icon-x"></span>
+		</span>
+	</a>
+</div>
+<div class="tve_s_item tve_s_yt_share thrv_wrapper" data-network="yt" data-s="yt_share" data-href="https://www.youtube.com/channel/UCCPNLx0irb9sbFdsdTCV6rg" data-name="YouTube" data-css="tve-u-18b3ce960be">
+
+	<a href="https://www.youtube.com/channel/UCCPNLx0irb9sbFdsdTCV6rg" class=" " target="_blank" rel="nofollow" data-id="icon-youtube">
+	<span class="tve_s_icon" data-css="tve-u-18b3ce960bf">
+			 <svg class="tcb-icon" viewBox="0 0 576 512" data-id="youtube" data-name="">
+            <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+        </svg>
+		</span>
+	</a>
+</div>
+<div class="tve_s_item tve_s_ig_share thrv_wrapper" data-network="ig" data-s="ig_share" data-href="https://www.instagram.com/goldsgymindia/" data-name="Instagram" data-css="tve-u-18b3ce960c2">
+
+	<a href="https://www.instagram.com/goldsgymindia/" class=" " target="_blank" rel="nofollow" data-id="icon-instagram">
+	<span class="tve_s_icon" data-css="tve-u-18b3ce960c3">
+			 <svg class="tcb-icon" viewBox="0 0 448 512" data-id="instagram" data-name="">
+            <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+        </svg>
+		</span>
+	</a>
+</div>
+<div class="tve_s_item tve_s_in_share thrv_wrapper" data-network="in" data-s="in_share" data-href="https://www.linkedin.com/company/gold-s-gym-india/" data-name="LinkedIn" data-css="tve-u-18b3ce960c6">
+
+	<a href="https://www.linkedin.com/company/gold-s-gym-india/" class=" " target="_blank" rel="nofollow" data-id="icon-linkedin">
+	<span class="tve_s_icon" data-css="tve-u-18b3ce960c7">
+			 <svg class="tcb-icon" viewBox="0 0 448 512" data-id="linkedin" data-name="">
+            <path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"></path>
+        </svg>
+		</span>
+	</a>
+</div>
+</div>
+</div></div></div></div></div></div></div>
+</div><div class="thrv_wrapper thrv_icon tcb-elem-placeholder">
+	<span class="tcb-inline-placeholder-action with-icon">
+		<svg class="tcb-icon tcb-icon-add"><use xlink:href="#tcb-icon-add"></use></svg>		Add Icon	</span>
+</div></div></div><div class="tcb_flag" style="display: none"></div>
+					</div><!-- .entry-content -->
+		</div><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+</div><!-- .col-full -->
+</div><!-- #content -->
+
+</div>
+
+
+
+
+</div><!-- #page -->
+<footer id="footer-main" class="block-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-ms-6 block-contacts  quick-links link-head">
+                <h4>Quick Links</h4>
+                <div class="row">
+                    <div class="col-sm-6 col-xs-6">
+                        <div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-1941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1941"><a href="https://goldsgym.in/gold-gyms/">Gym Locator</a></li>
+<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://goldsgym.in/about-us/">About us<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href="https://goldsgym.in/become-an-influencer-with-us/">Become an Influencer with Us<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="https://goldsgym.in/careers/">Careers<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://goldsgym.in/testimonials/">Testimonials<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://goldsgym.in/press-room/">Press Room<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="https://goldsgym.in/our-events/">Our Events<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://goldsgym.in/ggx-studio/">Group Program<div class="icon-wrapper"> </div></a></li>
+</ul></div>                    </div>
+                    <div class="col-sm-6 col-xs-6">
+                        <div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="https://goldsgym.in/blogs/">Blogs<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="https://goldsgym.in/corporate-wellness-program/">Corporate Wellness Program<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="https://goldsgym.in/gallery/">Gallery<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-433"><a href="https://goldsgym.in/franchise/">Franchise<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-1942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1942"><a href="https://goldsgym.in/courses/">GGFI</a></li>
+<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://goldsgym.in/advertise-with-us/">Advertise with us<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="https://goldsgym.in/buy-membership-now/">Buy Membership Now<div class="icon-wrapper"> </div></a></li>
+<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="https://goldsgym.in/sitemap/">Sitemap<div class="icon-wrapper"> </div></a></li>
+</ul></div>                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-ms-12  newsletters link-head"> -->
+            <div class="col-lg-4 col-md-4 col-sm-12 col-ms-12 link-head">
+                <h4>News Letter</h4>
+                <p style="color:#fff;">sign up for our mailing list to get latest updates and offers</p>
+                <div id="personal-info11">
+                    
+<div class="wpcf7 js" id="wpcf7-f1246-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://goldsgym.in/contact/#wpcf7-f1246-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" siq_id="autopick_7390">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1246">
+<input type="hidden" name="_wpcf7_version" value="5.9.3">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1246-o2">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+<input type="hidden" name="_wpcf7_recaptcha_response" value="03AFcWeA6L5sjXW5NncKUNF5EX53wJ7hkNy6mva92TKb0ztDYXefwi6tWNi54WZJzRODZs8t3xAvrbPk_hX9n4jcd0Q0ZUBNM_NtqOocgBkpNl-1tAVMhzCv3G4fRARlybb_KhPo42jHMdSXWElk94AxoicnUoXZKukdjPRn1eG-HIAKLKJdNlSXdKj9t41OUaXSVt-DuSfLtSnCdjxz_lS4e0dqDh3EY7eo-2U9w6cfI1F5FCKhl9snwjwFuSsVrMBFvOK0yvgUvzu4AMjZtjtEzNNo1gj9ElX8zSH6w_hn9aHab4bmhucCZH3sEclCh7WKlqu8tsA0TxlktijJaMUdsCxnfZXWLImIutSk3JEjXEsGkVGMHrrBblkeEH4SnpwZRQNFg2kWT4OxkAV4ifRojjNAQSQnI683_HgRT7FPkAFBrRPZK3wqsxNOQUm4PlyYkRrvBhiqf3j7At0n2jVFdGoxw-YaelTD7CzDaxyvZNtyXILdngSKHoIxxmxHZMNCYMH1JdlqzA2Hoo-xAivLA8oyZz5k2P4K05CRPDKEy9e0iM-ab_7ZgmBF6gnQMQmv6aXXiJHZ6wJ_EdmyDEdRjqZyBfIIc7YBp37JfOCrQCXodEhxG-VEV00ntZ94DdS65u40vvhEUKW8yp-Zr7VeUBgAeyFVLxXP-yKvPZG5N39altiTsy2We5hxly9A9v0TX8KVzq3HHPJmfORP3I_up_floP6rUZkRO6G-Q8vRjwr9Oo8oASVdKbDrmcF4tkhMKqs-1jFTegCHgg3t1oqbC9Y7QqrMSw8m6BeFaNDG6wr5kfDuqgCeyevREWz3WCGYfQrKaTDKrCMQdXgOpE0nz4tHunorGJpgSpS4-Hyytc5neeRg6TfVDNH5sLgt0u2nUg1U-9H_T1W_2WSPOW_kn388j7Z_NFzqOesUzbg5agDAnN2rgVex2p9W-JpKGDc_izkxq15lLw-DI0asNkOCT_QViTGoXRTgx0BTqRex5MxLvEup02sYJcmNiOZYydgMa1oDysn_JJpGXcGvgwkLpKwlT_hVKN7fZwtDPJzxpmKGT50_KR9dmaBTH3mK4XTD7gb-YGccsQEqFP65sZ9rkWJJVJpBBZbJBC1rObpLn7-IjEzE9JZuhZy3eW2MtXAJ7BzxcgCDVxS_5J0JjYUYts2bHSZc3ltamU0fl308FSg7eMEathvV45w2H4QDbtmZRgTy5toi2-nBJcMVX-79DOsd5aW-VPZEAd1AiM04T8w612kuvQ5z71raBpKxL52hGHyE7IWe4ah3Ej4GIk_ioc0S56K6X_3uo96AJROf1F52x3FDvm-rWoUMFmgG7auqYgHiwQJWJ3hylbrfD2UOY4v-ImWHsgFPJGuLoDHlIgWdoK2kk39e4uDtF7CEAx6zWUqGukkdTuPVSt7CNuvRrZCz102fd6fgRBbn6MaMX2y4tzwRP-i088_eEXVcqNkcZtn--gAYsX-ZN4IL9VVBN73Iy0-lHxP1u18NptK19rgQwRkNIkrMVu6eTFGlEVd93Q5PrnqXSkjTO_cta67npoy2wLN6eGxFlXQyQzXb24JX6_bM5E2fapfpt4RiN6XzIS5H94vmPMCqXiEzo38ZzWT2oHbjOALKorD5RZnvHEnrzJnvGvX7nStq1IZHullGDxpVzXgHN-a2r_WjMBo7B4JtxuI_lsN63tkatCBNqqHcgx9XL3ELbd_5IDs40N-TP23y6mG0xVbOMgCbu-ZFR6Zz_qQrfPeQ">
+</div>
+<div class="newsletters-form">
+	<p><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email default-input" aria-required="true" aria-invalid="false" placeholder="Enter Email" value="" type="email" name="email"></span>
+	<input class="wpcf7-form-control wpcf7-submit has-spinner default-button alt" type="submit" value="Subscribe Now"><span class="wpcf7-spinner"></span>
+	</p>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+                </div>
+
+                <!-- <form id="personal-info11" action="https://goldsgym.in/postdata/news_letter" enctype="multipart/form-data" method="post" novalidate="novalidate">
+                    <input required="" type="email" name="sus_email" id="sus_email" placeholder="E-mail" style="background: transparent" value="">
+                    <button type="submit" name="save" value="suscribe"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                </form> -->
+                <ul class="social social-big">
+                    <li><a target="_blank" href="https://www.facebook.com/GoldsGymIndia" class="social-fb fa fa-facebook"></a></li>
+                    <li><a target="_blank" href="https://twitter.com/GoldsGymIndia" class="social-twitter fa fa-twitter"></a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/channel/UCCPNLx0irb9sbFdsdTCV6rg" class="social-youtube fa fa-youtube"></a></li>
+                    <li><a target="_blank" href="https://www.instagram.com/goldsgymindia/" class="social-inst fa fa-instagram"></a></li>
+                    <li><a target="_blank" href="https://www.linkedin.com/company/gold-s-gym-india/" class="social-link fa fa-linkedin"></a></li>
+                </ul>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-ms-12 recent-post link-head">
+                <h4>Latest Blog</h4>
+                <div class="latest-news">
+                    
+                        <div class="latest-news-all">
+                            <div class="latest-news-left"></div>
+                            <div class="latest-news-right">
+                                <a href="https://goldsgym.in/work-well-live-well-mastering-ergonomic-harmony-in-your-office/">
+                                    <p class="tct">Work Well, Live Well: Mastering Ergonomic Harmony in Your Office</p>
+                                </a>
+                            </div>
+                        </div>
+
+                    
+                        <div class="latest-news-all">
+                            <div class="latest-news-left"><img width="2560" height="1707" src="./contact_files/compress-strong-man-training-gym-min-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=990%2C660&amp;ssl=1 990w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=441%2C294&amp;ssl=1 441w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?resize=150%2C100&amp;ssl=1 150w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/compress-strong-man-training-gym-min-scaled.jpg?w=2340&amp;ssl=1 2340w" sizes="(max-width: 360px) 147px, (max-width: 2560px) 100vw, 2560px"></div>
+                            <div class="latest-news-right">
+                                <a href="https://goldsgym.in/benefits-of-going-to-gym/">
+                                    <p class="tct">Benefits Of Going to The Gym and Doing Physical Activity</p>
+                                </a>
+                            </div>
+                        </div>
+
+                    
+                        <div class="latest-news-all">
+                            <div class="latest-news-left"><img width="653" height="451" src="./contact_files/compress-WhatsApp-Image-2023-10-17-at-11.01.53-AM.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/compress-WhatsApp-Image-2023-10-17-at-11.01.53-AM.jpeg?w=653&amp;ssl=1 653w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/compress-WhatsApp-Image-2023-10-17-at-11.01.53-AM.jpeg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/compress-WhatsApp-Image-2023-10-17-at-11.01.53-AM.jpeg?resize=441%2C305&amp;ssl=1 441w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/compress-WhatsApp-Image-2023-10-17-at-11.01.53-AM.jpeg?resize=600%2C414&amp;ssl=1 600w, https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/09/compress-WhatsApp-Image-2023-10-17-at-11.01.53-AM.jpeg?resize=150%2C104&amp;ssl=1 150w" sizes="(max-width: 360px) 147px, (max-width: 653px) 100vw, 653px"></div>
+                            <div class="latest-news-right">
+                                <a href="https://goldsgym.in/golds-gym-india-celebrating-21-years-of-fitness-excellence/">
+                                    <p class="tct">Gold’s Gym India: Celebrating 21 Years of Fitness Excellence</p>
+                                </a>
+                            </div>
+                        </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="copy-footer clearfix">
+        <div class="container" id="app-soon">
+            <div class="row">
+                <div class="col-sm-4 text-left">
+                    <p>@2024 Gold's Gym.in. All Rights Reserved. </p>
+                </div>
+                <div class="col-sm-2 col-xs-6">
+                    <!--  <a href="http://bit.ly/GGAppAndroid" target="_blank">
+                        <img src="https://goldsgym.in/assets/google-play-store.png" id="google" class="img-fluid">
+                    </a>-->
+                </div>
+                <div class="col-sm-2 col-xs-6">
+                    <!--   <a href="http://bit.ly/GGIAppIOS" target="_blank">
+                        <img src="https://goldsgym.in/assets/apple-app-store.png" id="apple" class="img-fluid">
+                    </a>-->
+                </div>
+                <div class="col-sm-4 text-right">
+                   <a href="https://goldsgym.in/terms-and-conditions/">Terms &amp; Conditions</a> |<a href="https://goldsgym.in/privacy-policy/"> Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-links">
+        <div class="container">
+            <h3>Related Searches:</h3>
+            <ul>
+            
+                                                                                <li><a href="https://goldsgym.in/gold-gyms/">Gym Near Me</a>,</li>
+                                            <li><a href="https://goldsgym.in/our-gyms/gold-s-gym-mumbai-bandra/">Gold’s Gym Mumbai Bandra</a>,</li>
+                                            <li><a href="https://goldsgym.in/corporate-wellness-program/">Corporate Wellness Program</a>,</li>
+                                            <li><a href="https://goldsgym.in/personal-training-program/">Personal Training Program</a>,</li>
+                                            <li><a href="https://goldsgym.in/buy-membership-now/">Gym Memberships Near Me</a>,</li>
+                                            <li><a href="https://goldsgym.in/gold-s-gym-india-21-years-of-fitness-excellence-and-the-grand-anniversary-celebration/">Fitness Near Me</a>,</li>
+                                            <li><a href="https://goldsgym.in/gold-gyms/">Golds Gym Near Me</a>,</li>
+                                            <li><a href="https://goldsgym.in/personal-training-program/">Personal Training Near Me</a>,</li>
+                                            <li><a href="https://goldsgym.in/our-gyms/gold-s-gym-pune-kalyaninagar/">Gyms In Pune Kalyani Nagar</a>,</li>
+                                            <li><a href="https://goldsgym.in/our-gyms/gold-s-gym-bengaluru-rr-nagar/">Gyms In Bengaluru RR Nagar</a>,</li>
+                                            <li><a href="https://goldsgym.in/our-gyms/gold-s-gym-delhi-greater-kailash/">Gyms In Delhi Greater Kailash</a>,</li>
+                                            <li><a href="https://goldsgym.in/benefits-of-going-to-gym/">Gym Workout Routine</a>,</li>
+                                            <li><a href="https://goldsgym.in/benefits-of-going-to-gym/">Weight Training for Weight Loss</a></li>
+                                    
+
+
+
+
+
+            </ul>
+        </div>
+    </div>
+</footer>
+<script type="text/javascript">( $ => {
+	/**
+	 * Displays toast message from storage, it is used when the user is redirected after login
+	 */
+	if ( window.sessionStorage ) {
+		$( window ).on( 'tcb_after_dom_ready', () => {
+			const message = sessionStorage.getItem( 'tcb_toast_message' );
+
+			if ( message ) {
+				tcbToast( sessionStorage.getItem( 'tcb_toast_message' ), false );
+				sessionStorage.removeItem( 'tcb_toast_message' );
+			}
+		} );
+	}
+
+	/**
+	 * Displays toast message
+	 *
+	 * @param {string}   message  - message to display
+	 * @param {Boolean}  error    - whether the message is an error or not
+	 * @param {Function} callback - callback function to be called after the message is closed
+	 */
+	function tcbToast( message, error, callback ) {
+		/* Also allow "message" objects */
+		if ( typeof message !== 'string' ) {
+			message = message.message || message.error || message.success;
+		}
+		if ( ! error ) {
+			error = false;
+		}
+		TCB_Front.notificationElement.toggle( message, error ? 'error' : 'success', callback );
+	}
+} )( typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j );
+</script><style type="text/css" id="tve_notification_styles"></style>
+<div class="tvd-toast tve-fe-message" style="display: none">
+	<div class="tve-toast-message tve-success-message">
+		<div class="tve-toast-icon-container">
+			<span class="tve_tick thrv-svg-icon"></span>
+		</div>
+		<div class="tve-toast-message-container"></div>
+	</div>
+</div>        <div id="message-purchased" class=" wn-background-template-type-2  wn-extended wn-yellow" style="display: none;">
+
+        </div>
+			<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript">window.TVE_Event_Manager_Registered_Callbacks = window.TVE_Event_Manager_Registered_Callbacks || {};window.TVE_Event_Manager_Registered_Callbacks.thrive_animation = function(trigger, action, config) {var $element = jQuery( this ),
+	$at = $element.closest( '.tcb-col, .thrv_wrapper' );
+if ( $at.length === 0 ) {
+	$at = $element;
+}
+if ( ! config.loop && $at.data( 'a-done' ) ) {
+	return;
+}
+$at.data( 'a-done', 1 );
+const hadAnimStart = $at.hasClass( 'tve_anim_start' );
+$at.removeClass( function ( i, cls ) {
+	return cls.split( ' ' ).filter( function ( item ) {
+		return item.indexOf( 'tve_anim_' ) === 0;
+	} ).join( ' ' );
+} ).addClass( 'tve_anim_' + config.anim ).removeClass( 'tve_anim_start' );
+if ( config.loop ) {
+	setTimeout( function () {
+		$at.addClass( 'tve_anim_start' );
+	}, hadAnimStart ? 50 : 0 );
+	if ( trigger === 'mouseover' ) {
+		$element.one( 'mouseleave', function () {
+			$at.removeClass( 'tve_anim_start' );
+		} );
+	}
+	if ( trigger === 'tve-viewport' ) {
+		$element.one( 'tve-viewport-leave', function () {
+			/**
+			 * double check for viewport
+			 * animation in animation triggers weird behaviors
+			 */
+			if ( ! TCB_Front.isInViewport( $element ) ) {
+				$at.removeClass( 'tve_anim_start' );
+			}
+		} );
+	}
+} else {
+	setTimeout( function () {
+		$at.addClass( 'tve_anim_start' );
+	}, 50 );
+}
+return false;
+};</script><script type="text/javascript" src="./contact_files/image-cdn.js.download" id="jetpack-photon-js"></script>
+<script type="text/javascript" src="./contact_files/index.js.download" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/goldsgym.in\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/index(1).js.download" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./contact_files/social-share.min.js.download" id="tve_frontend_social-share-js"></script>
+<script type="text/javascript" src="./contact_files/woo.min.js.download" id="tve_woo-js"></script>
+<script type="text/javascript" src="./contact_files/sourcebuster.min.js.download" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"ajaxurl":"https:\/\/goldsgym.in\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/order-attribution.min.js.download" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="./contact_files/slick.js.download" id="slick-min-js"></script>
+<script type="text/javascript" src="./contact_files/contact-form-7-state-city-script.js.download" id="custom-contact-form-7-state-city-script-js"></script>
+<script type="text/javascript" src="./contact_files/main.min.js.download" id="shoptimizer-main-js"></script>
+<script type="text/javascript" id="shoptimizer-main-js-after">
+/* <![CDATA[ */
+				jQuery( document ).ready( function( $ ) {
+					$( 'body' ).on( 'added_to_cart', function( event, fragments, cart_hash ) {
+						if ( ! $( 'body' ).hasClass( 'elementor-editor-active' ) ) {
+							$( 'body' ).addClass( 'drawer-open' );
+						}
+					} );				
+				} );
+				document.addEventListener( 'DOMContentLoaded', function() {
+					document.addEventListener( 'click', function( event ) {
+						var is_inner = event.target.closest( '.shoptimizer-mini-cart-wrap' );
+						if ( ! event.target.classList.contains( 'shoptimizer-mini-cart-wrap' ) && ! is_inner ) {
+							document.querySelector( 'body' ).classList.remove( 'drawer-open' );
+						}
+						var is_inner2 = event.target.closest( '.cart-click' );
+						if ( event.target.classList.contains( 'cart-click' ) || is_inner2 ) {
+							var is_header = event.target.closest( '.site-header-cart' );
+							if ( is_header ) {
+								event.preventDefault();
+								document.querySelector( 'body' ).classList.toggle( 'drawer-open' );
+							}
+						}
+						if ( event.target.classList.contains( 'close-drawer' ) ) {
+							document.querySelector( 'body' ).classList.remove( 'drawer-open' );
+						}
+					} );
+				} );
+				var interceptor = ( function( open ) {
+					XMLHttpRequest.prototype.open = function( method, url, async, user, pass ) {
+						this.addEventListener( 'readystatechange', function() {
+						switch ( this.readyState ) {
+							case 1:
+								document.querySelector( '#ajax-loading' ).style.display = 'block';
+							break;
+							case 4:
+								document.querySelector( '#ajax-loading' ).style.display = 'none';
+							break;
+						}
+						}, false );
+						if ( async !== false ) {
+							async = true;
+						}
+						open.call( this, method, url, async, user, pass );
+					};
+				}  ( XMLHttpRequest.prototype.open ) );
+				document.addEventListener( 'DOMContentLoaded', function() {
+					document.querySelector( '#ajax-loading' ).style.display = 'none';
+				} );
+				
+
+document.addEventListener( 'DOMContentLoaded', function() {
+	document.addEventListener( 'click', function( event ) {
+		if ( event.target.classList.contains( 'search-trigger' ) ) {
+			event.stopPropagation();
+			event.preventDefault();
+		}
+	} );				
+
+	var modal = document.querySelector( '.search-main-modal' );
+	var trigger = document.querySelector( '.search-trigger' );
+	var closeButton = document.querySelector( '.search-close-button' );
+
+	function toggleModal() {
+		modal.classList.toggle( 'show-modal' );
+	}
+
+	function windowOnClick( event ) {
+		if ( event.target === modal ) {
+			toggleModal();
+		}
+	}
+
+	trigger.addEventListener( 'click', toggleModal );
+	closeButton.addEventListener( 'click', toggleModal );
+	window.addEventListener( 'click', windowOnClick );
+} );
+		
+/* ]]> */
+</script>
+<script type="text/javascript" id="tve-dash-frontend-js-extra">
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/goldsgym.in\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":"","recaptcha":[],"post_id":"295"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/frontend.min.js.download" id="tve-dash-frontend-js"></script>
+<script type="text/javascript" src="./contact_files/api.js.download" id="google-recaptcha-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Le6RZcpAAAAAKnAjDzywzxagMLTviG6JlCcl8ri","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/index(2).js.download" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" src="./contact_files/e-202413.js.download" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"111263899\",\"post\":\"295\",\"tz\":\"0\",\"srv\":\"goldsgym.in\",\"j\":\"1:13.2.2\"}") ]);
+_stq.push([ "clickTrackerInit", "111263899", "295" ]);
+/* ]]> */
+</script><style>img#wpstats {
+			position: absolute !important;
+			clip: rect(0, 0, 0, 0);
+			padding: 0 !important;
+			border: 0 !important;
+			height: 0 !important;
+			width: 0 !important;
+			overflow: hidden;
+		}</style><img src="./contact_files/g.gif" alt="" id="wpstats">
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_61944064e89ea03e721b320ced7e3497","fragment_name":"wc_fragments_61944064e89ea03e721b320ced7e3497","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./contact_files/cart-fragments.min.js.download" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script><script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"2cfb76ab76","ajax_url":"https:\/\/goldsgym.in\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"http_referrer":"https:\/\/goldsgym.in\/"},"current_screen":{"screen_type":3,"screen_id":295},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]};} else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({"security":"2cfb76ab76","ajax_url":"https:\/\/goldsgym.in\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"http_referrer":"https:\/\/goldsgym.in\/"},"current_screen":{"screen_type":3,"screen_id":295},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]})} /*]]> */</script><script>
+    // jQuery(document).ready(function($) {
+    //     console.log("dsd");
+    //     var gstRow = $('tr.fee:nth-child(1)');
+    //     var processingFeeRow = $('tr.fee:nth-child(2)');
+
+    //     // Check if both rows are found
+    //     if (gstRow.length && processingFeeRow.length) {
+    //         // Clone the rows
+    //         var gstRowClone = gstRow.clone(true);
+    //         var processingFeeRowClone = processingFeeRow.clone(true);
+
+    //         // Replace the original rows with the cloned ones
+    //         gstRow.replaceWith(processingFeeRowClone);
+    //         processingFeeRow.replaceWith(gstRowClone);
+    //     }
+    // });
+</script>
+
+
+
+
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-wkmlhh197pju" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="./contact_files/anchor.html"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;" src="./contact_files/saved_resource.html"></iframe></div></body></html>
